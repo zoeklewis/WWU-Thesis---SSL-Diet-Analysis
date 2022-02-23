@@ -12,7 +12,6 @@ library(tidyverse)
 library(ggplot2)
 library(car)
 
-setwd()
 
 ############################### Read in data #################################
 
@@ -287,7 +286,9 @@ dnaCoi <- rawdnaCoi %>% select(-sample.y)
 
   RRA.long <- gather(RRA.wide, sample, PRCNT100, EJ_001:PV_012, factor_key=TRUE)
   
-  mergedRRA <- merge(RRA.long,metadata,
+  RRA.long.codes <- merge(RRA.long, codes, by = "species", sort = F)
+  
+  mergedRRA <- merge(RRA.long.codes,metadata,
                         by.x ="sample")
 
   write.csv(mergedRRA, "SSL_RRA.csv")  
