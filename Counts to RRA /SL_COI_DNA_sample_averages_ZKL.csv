@@ -1,0 +1,742 @@
+"","sample","species","count","percCOI2","species_name","common","sample.y","site","Collection.Date","day","month","year"
+"1","21MD0001","ONCKET",23,34.8484848484849,"Oncorhynchus keta","Chum_Salmon","PV_001","Eagle Point",44176,11,12,2020
+"2","21MD0001","ONCKIS",14,21.2121212121212,"Oncorhynchus kisutch","Coho_Salmon","PV_001","Eagle Point",44176,11,12,2020
+"3","21MD0001","ONCMYK",14,21.2121212121212,"Oncorhynchus mykiss","Steelhead","PV_001","Eagle Point",44176,11,12,2020
+"4","21MD0001","ONCTSH",15,22.7272727272727,"Oncorhynchus tshawytscha","Chinook_Salmon","PV_001","Eagle Point",44176,11,12,2020
+"5","21MD0002","ONCTSH",9,75,"Oncorhynchus tshawytscha","Chinook_Salmon","PV_002","Eagle Point",44176,11,12,2020
+"6","21MD0002","ONCKET",3,25,"Oncorhynchus keta","Chum_Salmon","PV_002","Eagle Point",44176,11,12,2020
+"7","21MD0003","ONCMYK",18,16.3636363636364,"Oncorhynchus mykiss","Steelhead","PV_003","Father and Son ",44188,23,12,2020
+"8","21MD0003","ONCTSH",36,32.7272727272727,"Oncorhynchus tshawytscha","Chinook_Salmon","PV_003","Father and Son ",44188,23,12,2020
+"9","21MD0003","ONCKET",9,8.18181818181818,"Oncorhynchus keta","Chum_Salmon","PV_003","Father and Son ",44188,23,12,2020
+"10","21MD0003","ONCKIS",47,42.7272727272727,"Oncorhynchus kisutch","Coho_Salmon","PV_003","Father and Son ",44188,23,12,2020
+"11","21MD0004","ONCKIS",8,44.4444444444444,"Oncorhynchus kisutch","Coho_Salmon","PV_004","Father and Son ",44188,23,12,2020
+"12","21MD0004","ONCKET",2,11.1111111111111,"Oncorhynchus keta","Chum_Salmon","PV_004","Father and Son ",44188,23,12,2020
+"13","21MD0004","ONCMYK",8,44.4444444444444,"Oncorhynchus mykiss","Steelhead","PV_004","Father and Son ",44188,23,12,2020
+"14","21MD0005","ONCTSH",8,57.1428571428571,"Oncorhynchus tshawytscha","Chinook_Salmon","PV_005","Father and Son ",44188,23,12,2020
+"15","21MD0005","ONCMYK",6,42.8571428571429,"Oncorhynchus mykiss","Steelhead","PV_005","Father and Son ",44188,23,12,2020
+"16","21MD0006","ONCMYK",8,100,"Oncorhynchus mykiss","Steelhead","PV_006","Father and Son ",44188,23,12,2020
+"17","21MD0007","ONCTSH",4,100,"Oncorhynchus tshawytscha","Chinook_Salmon","PV_007","Father and Son ",44188,23,12,2020
+"18","21MD0008","ONCTSH",21,100,"Oncorhynchus tshawytscha","Chinook_Salmon","PV_008","Cooke Rock",44188,23,12,2020
+"19","21MD0009","ONCTSH",22,75.8620689655172,"Oncorhynchus tshawytscha","Chinook_Salmon","PV_009","Cooke Rock",44188,23,12,2020
+"20","21MD0009","ONCKET",2,6.89655172413793,"Oncorhynchus keta","Chum_Salmon","PV_009","Cooke Rock",44188,23,12,2020
+"21","21MD0009","ONCKIS",5,17.2413793103448,"Oncorhynchus kisutch","Coho_Salmon","PV_009","Cooke Rock",44188,23,12,2020
+"22","21MD0010","ONCTSH",12,100,"Oncorhynchus tshawytscha","Chinook_Salmon","PV_010","Cooke Rock",44188,23,12,2020
+"23","21MD0011","ONCKIS",23,67.6470588235294,"Oncorhynchus kisutch","Coho_Salmon","PV_011","Waadah Island ",44215,19,1,2021
+"24","21MD0011","ONCMYK",11,32.3529411764706,"Oncorhynchus mykiss","Steelhead","PV_011","Waadah Island ",44215,19,1,2021
+"25","21MD0012","ONCMYK",6,8.45070422535211,"Oncorhynchus mykiss","Steelhead","PV_012","Waadah Island ",44215,19,1,2021
+"26","21MD0012","ONCTSH",29,40.8450704225352,"Oncorhynchus tshawytscha","Chinook_Salmon","PV_012","Waadah Island ",44215,19,1,2021
+"27","21MD0012","ONCKET",21,29.5774647887324,"Oncorhynchus keta","Chum_Salmon","PV_012","Waadah Island ",44215,19,1,2021
+"28","21MD0012","ONCKIS",15,21.1267605633803,"Oncorhynchus kisutch","Coho_Salmon","PV_012","Waadah Island ",44215,19,1,2021
+"29","21MD0013","ONCKIS",17,48.5714285714286,"Oncorhynchus kisutch","Coho_Salmon","PV_013","Waadah Island ",44215,19,1,2021
+"30","21MD0013","ONCKET",3,8.57142857142857,"Oncorhynchus keta","Chum_Salmon","PV_013","Waadah Island ",44215,19,1,2021
+"31","21MD0013","ONCTSH",15,42.8571428571429,"Oncorhynchus tshawytscha","Chinook_Salmon","PV_013","Waadah Island ",44215,19,1,2021
+"32","21MD0014","ONCTSH",24,100,"Oncorhynchus tshawytscha","Chinook_Salmon","PV_014","Waadah Island ",44215,19,1,2021
+"33","21MD0015","ONCMYK",2,100,"Oncorhynchus mykiss","Steelhead","PV_015","Waadah Island ",44215,19,1,2021
+"34","21MD0016","ONCKET",29,2.98047276464543,"Oncorhynchus keta","Chum_Salmon","PV_016","Waadah Island ",44215,19,1,2021
+"35","21MD0016","ONCKIS",944,97.0195272353546,"Oncorhynchus kisutch","Coho_Salmon","PV_016","Waadah Island ",44215,19,1,2021
+"36","21MD0017","ONCKIS",16,40,"Oncorhynchus kisutch","Coho_Salmon","PV_017","Waadah Island ",44215,19,1,2021
+"37","21MD0017","ONCKET",4,10,"Oncorhynchus keta","Chum_Salmon","PV_017","Waadah Island ",44215,19,1,2021
+"38","21MD0017","ONCTSH",20,50,"Oncorhynchus tshawytscha","Chinook_Salmon","PV_017","Waadah Island ",44215,19,1,2021
+"39","21MD0018","ONCKIS",6,22.2222222222222,"Oncorhynchus kisutch","Coho_Salmon","PV_018","Waddah Island",44216,20,1,2021
+"40","21MD0018","ONCMYK",8,29.6296296296296,"Oncorhynchus mykiss","Steelhead","PV_018","Waddah Island",44216,20,1,2021
+"41","21MD0018","ONCTSH",7,25.9259259259259,"Oncorhynchus tshawytscha","Chinook_Salmon","PV_018","Waddah Island",44216,20,1,2021
+"42","21MD0018","ONCKET",6,22.2222222222222,"Oncorhynchus keta","Chum_Salmon","PV_018","Waddah Island",44216,20,1,2021
+"43","21MD0019","ONCTSH",23,82.1428571428571,"Oncorhynchus tshawytscha","Chinook_Salmon","PV_019","Waddah Island",44216,20,1,2021
+"44","21MD0019","ONCKET",5,17.8571428571429,"Oncorhynchus keta","Chum_Salmon","PV_019","Waddah Island",44216,20,1,2021
+"45","21MD0020","ONCTSH",9,100,"Oncorhynchus tshawytscha","Chinook_Salmon","PV_020","Waddah Island",44216,20,1,2021
+"46","21MD0021","ONCKIS",11,15.0684931506849,"Oncorhynchus kisutch","Coho_Salmon","PV_021","Waddah Island",44216,20,1,2021
+"47","21MD0021","ONCTSH",46,63.013698630137,"Oncorhynchus tshawytscha","Chinook_Salmon","PV_021","Waddah Island",44216,20,1,2021
+"48","21MD0021","ONCMYK",4,5.47945205479452,"Oncorhynchus mykiss","Steelhead","PV_021","Waddah Island",44216,20,1,2021
+"49","21MD0021","ONCKET",12,16.4383561643836,"Oncorhynchus keta","Chum_Salmon","PV_021","Waddah Island",44216,20,1,2021
+"50","21MD0022","ONCKIS",13,100,"Oncorhynchus kisutch","Coho_Salmon","PV_022","Waddah Island",44216,20,1,2021
+"51","21MD0023","ONCKET",5,21.7391304347826,"Oncorhynchus keta","Chum_Salmon","PV_023","Waddah Island",44216,20,1,2021
+"52","21MD0023","ONCMYK",18,78.2608695652174,"Oncorhynchus mykiss","Steelhead","PV_023","Waddah Island",44216,20,1,2021
+"53","21MD0025","ONCKIS",11,34.375,"Oncorhynchus kisutch","Coho_Salmon","PV_024","Waddah Island",44216,20,1,2021
+"54","21MD0025","ONCKET",7,21.875,"Oncorhynchus keta","Chum_Salmon","PV_024","Waddah Island",44216,20,1,2021
+"55","21MD0025","ONCTSH",14,43.75,"Oncorhynchus tshawytscha","Chinook_Salmon","PV_024","Waddah Island",44216,20,1,2021
+"56","21MD0026","ONCMYK",25,100,"Oncorhynchus mykiss","Steelhead","PV_025","Waddah Island",44216,20,1,2021
+"57","21MD0027","ONCKIS",8,100,"Oncorhynchus kisutch","Coho_Salmon","PV_026","Waddah Island",44218,22,1,2021
+"58","21MD0028","ONCTSH",10,100,"Oncorhynchus tshawytscha","Chinook_Salmon","PV_027","Wa'atch Point",44224,28,1,2021
+"59","21MD0029","ONCTSH",27,100,"Oncorhynchus tshawytscha","Chinook_Salmon","PV_028","Wa'atch Point",44224,28,1,2021
+"60","21MD0030","ONCKIS",22,100,"Oncorhynchus kisutch","Coho_Salmon","PV_029","Wa'atch Point",44235,8,2,2021
+"61","21MD0031","ONCKET",11,22,"Oncorhynchus keta","Chum_Salmon","PV_030","Wa'atch Point",44235,8,2,2021
+"62","21MD0031","ONCTSH",24,48,"Oncorhynchus tshawytscha","Chinook_Salmon","PV_030","Wa'atch Point",44235,8,2,2021
+"63","21MD0031","ONCKIS",15,30,"Oncorhynchus kisutch","Coho_Salmon","PV_030","Wa'atch Point",44235,8,2,2021
+"64","21MD0032","ONCKET",4,44.4444444444444,"Oncorhynchus keta","Chum_Salmon","PV_031","Wa'atch Point",44235,8,2,2021
+"65","21MD0032","ONCTSH",5,55.5555555555556,"Oncorhynchus tshawytscha","Chinook_Salmon","PV_031","Wa'atch Point",44235,8,2,2021
+"66","21MD0033","ONCKET",3,27.2727272727273,"Oncorhynchus keta","Chum_Salmon","PV_032","Wa'atch Point",44235,8,2,2021
+"67","21MD0033","ONCMYK",8,72.7272727272727,"Oncorhynchus mykiss","Steelhead","PV_032","Wa'atch Point",44235,8,2,2021
+"68","21MD0034","ONCKIS",40,95.2380952380952,"Oncorhynchus kisutch","Coho_Salmon","PV_033","Wa'atch Point",44235,8,2,2021
+"69","21MD0034","ONCKET",2,4.76190476190476,"Oncorhynchus keta","Chum_Salmon","PV_033","Wa'atch Point",44235,8,2,2021
+"70","21MD0035","ONCTSH",11,61.1111111111111,"Oncorhynchus tshawytscha","Chinook_Salmon","PV_034","Wa'atch Point",44251,24,2,2021
+"71","21MD0035","ONCKIS",7,38.8888888888889,"Oncorhynchus kisutch","Coho_Salmon","PV_034","Wa'atch Point",44251,24,2,2021
+"72","21MD0036","ONCTSH",11,73.3333333333333,"Oncorhynchus tshawytscha","Chinook_Salmon","PV_035","Wa'atch Point",44251,24,2,2021
+"73","21MD0036","ONCKET",4,26.6666666666667,"Oncorhynchus keta","Chum_Salmon","PV_035","Wa'atch Point",44251,24,2,2021
+"74","21MD0037","ONCKET",4,40,"Oncorhynchus keta","Chum_Salmon","PV_036","Wa'atch Point",44251,24,2,2021
+"75","21MD0037","ONCMYK",6,60,"Oncorhynchus mykiss","Steelhead","PV_036","Wa'atch Point",44251,24,2,2021
+"76","21MD0039","ONCKIS",9,25,"Oncorhynchus kisutch","Coho_Salmon","PV_038","Wa'atch Point",44251,24,2,2021
+"77","21MD0039","ONCMYK",16,44.4444444444444,"Oncorhynchus mykiss","Steelhead","PV_038","Wa'atch Point",44251,24,2,2021
+"78","21MD0039","ONCKET",6,16.6666666666667,"Oncorhynchus keta","Chum_Salmon","PV_038","Wa'atch Point",44251,24,2,2021
+"79","21MD0039","ONCTSH",5,13.8888888888889,"Oncorhynchus tshawytscha","Chinook_Salmon","PV_038","Wa'atch Point",44251,24,2,2021
+"80","21MD0040","ONCKIS",7,58.3333333333333,"Oncorhynchus kisutch","Coho_Salmon","PV_039","Wa'atch Point",44251,24,2,2021
+"81","21MD0040","ONCKET",5,41.6666666666667,"Oncorhynchus keta","Chum_Salmon","PV_039","Wa'atch Point",44251,24,2,2021
+"82","21MD0041","ONCMYK",13,20,"Oncorhynchus mykiss","Steelhead","PV_040","Wa'atch Point",44251,24,2,2021
+"83","21MD0041","ONCKET",4,6.15384615384615,"Oncorhynchus keta","Chum_Salmon","PV_040","Wa'atch Point",44251,24,2,2021
+"84","21MD0041","ONCTSH",48,73.8461538461539,"Oncorhynchus tshawytscha","Chinook_Salmon","PV_040","Wa'atch Point",44251,24,2,2021
+"85","21MD0042","ONCTSH",142,80.6818181818182,"Oncorhynchus tshawytscha","Chinook_Salmon","PV_041","Wa'atch Point",44251,24,2,2021
+"86","21MD0042","ONCKET",14,7.95454545454545,"Oncorhynchus keta","Chum_Salmon","PV_041","Wa'atch Point",44251,24,2,2021
+"87","21MD0042","ONCMYK",10,5.68181818181818,"Oncorhynchus mykiss","Steelhead","PV_041","Wa'atch Point",44251,24,2,2021
+"88","21MD0042","ONCKIS",10,5.68181818181818,"Oncorhynchus kisutch","Coho_Salmon","PV_041","Wa'atch Point",44251,24,2,2021
+"89","21MD0043","ONCKIS",81,44.5054945054945,"Oncorhynchus kisutch","Coho_Salmon","PV_042","Waadah Island ",44255,28,2,2021
+"90","21MD0043","ONCKET",19,10.4395604395604,"Oncorhynchus keta","Chum_Salmon","PV_042","Waadah Island ",44255,28,2,2021
+"91","21MD0043","ONCMYK",24,13.1868131868132,"Oncorhynchus mykiss","Steelhead","PV_042","Waadah Island ",44255,28,2,2021
+"92","21MD0043","ONCTSH",58,31.8681318681319,"Oncorhynchus tshawytscha","Chinook_Salmon","PV_042","Waadah Island ",44255,28,2,2021
+"93","21MD0044","ONCKET",3,100,"Oncorhynchus keta","Chum_Salmon","EJ_001","Tatoosh Cut",44177,12,12,2020
+"94","21MD0045","ONCTSH",214,15.2639087018545,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_002","Tatoosh Cut",44177,12,12,2020
+"95","21MD0045","ONCKIS",1059,75.5349500713267,"Oncorhynchus kisutch","Coho_Salmon","EJ_002","Tatoosh Cut",44177,12,12,2020
+"96","21MD0045","ONCKET",78,5.56348074179743,"Oncorhynchus keta","Chum_Salmon","EJ_002","Tatoosh Cut",44177,12,12,2020
+"97","21MD0045","ONCMYK",51,3.6376604850214,"Oncorhynchus mykiss","Steelhead","EJ_002","Tatoosh Cut",44177,12,12,2020
+"98","21MD0047","ONCKIS",369,100,"Oncorhynchus kisutch","Coho_Salmon","EJ_004","Tatoosh Cut",44177,12,12,2020
+"99","21MD0049","ONCMYK",4,3.6036036036036,"Oncorhynchus mykiss","Steelhead","EJ_005","Tatoosh Cut",44177,12,12,2020
+"100","21MD0049","ONCKIS",58,52.2522522522522,"Oncorhynchus kisutch","Coho_Salmon","EJ_005","Tatoosh Cut",44177,12,12,2020
+"101","21MD0049","ONCTSH",45,40.5405405405405,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_005","Tatoosh Cut",44177,12,12,2020
+"102","21MD0049","ONCKET",4,3.6036036036036,"Oncorhynchus keta","Chum_Salmon","EJ_005","Tatoosh Cut",44177,12,12,2020
+"103","21MD0050","ONCKIS",432,41.8604651162791,"Oncorhynchus kisutch","Coho_Salmon","EJ_006","Tatoosh Cut",44177,12,12,2020
+"104","21MD0050","ONCTSH",408,39.5348837209302,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_006","Tatoosh Cut",44177,12,12,2020
+"105","21MD0050","ONCMYK",113,10.9496124031008,"Oncorhynchus mykiss","Steelhead","EJ_006","Tatoosh Cut",44177,12,12,2020
+"106","21MD0050","ONCKET",79,7.65503875968992,"Oncorhynchus keta","Chum_Salmon","EJ_006","Tatoosh Cut",44177,12,12,2020
+"107","21MD0051","ONCTSH",9,50,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_007","Tatoosh Cut",44177,12,12,2020
+"108","21MD0051","ONCKET",2,11.1111111111111,"Oncorhynchus keta","Chum_Salmon","EJ_007","Tatoosh Cut",44177,12,12,2020
+"109","21MD0051","ONCMYK",7,38.8888888888889,"Oncorhynchus mykiss","Steelhead","EJ_007","Tatoosh Cut",44177,12,12,2020
+"110","21MD0052","ONCKIS",7,46.6666666666667,"Oncorhynchus kisutch","Coho_Salmon","EJ_008","Tatoosh Cut",44177,12,12,2020
+"111","21MD0052","ONCKET",3,20,"Oncorhynchus keta","Chum_Salmon","EJ_008","Tatoosh Cut",44177,12,12,2020
+"112","21MD0052","ONCTSH",5,33.3333333333333,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_008","Tatoosh Cut",44177,12,12,2020
+"113","21MD0053","ONCKIS",47740,100,"Oncorhynchus kisutch","Coho_Salmon","EJ_009","Tatoosh Cut",44177,12,12,2020
+"114","21MD0054","ONCKET",2836,100,"Oncorhynchus keta","Chum_Salmon","EJ_010","Tatoosh Cut",44177,12,12,2020
+"115","21MD0055","ONCKIS",16489,55.0826791381326,"Oncorhynchus kisutch","Coho_Salmon","EJ_011","Tatoosh Cut",44177,12,12,2020
+"116","21MD0055","ONCTSH",13446,44.9173208618674,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_011","Tatoosh Cut",44177,12,12,2020
+"117","21MD0056","ONCTSH",58329,100,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_012","Tatoosh Cut",44177,12,12,2020
+"118","21MD0057","ONCKET",3,27.2727272727273,"Oncorhynchus keta","Chum_Salmon","EJ_013","Tatoosh Cut",44177,12,12,2020
+"119","21MD0057","ONCKIS",8,72.7272727272727,"Oncorhynchus kisutch","Coho_Salmon","EJ_013","Tatoosh Cut",44177,12,12,2020
+"120","21MD0058","ONCKET",57,8.24891461649783,"Oncorhynchus keta","Chum_Salmon","EJ_014","Tatoosh Cut",44177,12,12,2020
+"121","21MD0058","ONCKIS",634,91.7510853835022,"Oncorhynchus kisutch","Coho_Salmon","EJ_014","Tatoosh Cut",44177,12,12,2020
+"122","21MD0059","ONCKET",20,24.0963855421687,"Oncorhynchus keta","Chum_Salmon","EJ_015","Tatoosh Cut",44177,12,12,2020
+"123","21MD0059","ONCTSH",15,18.0722891566265,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_015","Tatoosh Cut",44177,12,12,2020
+"124","21MD0059","ONCKIS",31,37.3493975903614,"Oncorhynchus kisutch","Coho_Salmon","EJ_015","Tatoosh Cut",44177,12,12,2020
+"125","21MD0059","ONCGOR",17,20.4819277108434,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_015","Tatoosh Cut",44177,12,12,2020
+"126","21MD0060","ONCKIS",6,14.6341463414634,"Oncorhynchus kisutch","Coho_Salmon","EJ_016","Tatoosh Cut",44177,12,12,2020
+"127","21MD0060","ONCTSH",18,43.9024390243902,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_016","Tatoosh Cut",44177,12,12,2020
+"128","21MD0060","ONCKET",8,19.5121951219512,"Oncorhynchus keta","Chum_Salmon","EJ_016","Tatoosh Cut",44177,12,12,2020
+"129","21MD0060","ONCMYK",9,21.9512195121951,"Oncorhynchus mykiss","Steelhead","EJ_016","Tatoosh Cut",44177,12,12,2020
+"130","21MD0061","ONCMYK",5,100,"Oncorhynchus mykiss","Steelhead","EJ_017","Tatoosh Cut",44177,12,12,2020
+"131","21MD0062","ONCKET",52,19.4756554307116,"Oncorhynchus keta","Chum_Salmon","EJ_018","Tatoosh Cut",44177,12,12,2020
+"132","21MD0062","ONCTSH",61,22.8464419475655,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_018","Tatoosh Cut",44177,12,12,2020
+"133","21MD0062","ONCMYK",31,11.6104868913858,"Oncorhynchus mykiss","Steelhead","EJ_018","Tatoosh Cut",44177,12,12,2020
+"134","21MD0062","ONCKIS",123,46.0674157303371,"Oncorhynchus kisutch","Coho_Salmon","EJ_018","Tatoosh Cut",44177,12,12,2020
+"135","21MD0063","ONCTSH",14,70,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_019","Tatoosh Cut",44177,12,12,2020
+"136","21MD0063","ONCKIS",6,30,"Oncorhynchus kisutch","Coho_Salmon","EJ_019","Tatoosh Cut",44177,12,12,2020
+"137","21MD0064","ONCTSH",7,31.8181818181818,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_020","Tatoosh Cut",44177,12,12,2020
+"138","21MD0064","ONCMYK",15,68.1818181818182,"Oncorhynchus mykiss","Steelhead","EJ_020","Tatoosh Cut",44177,12,12,2020
+"139","21MD0065","ONCTSH",6,100,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_021","Tatoosh Cut",44177,12,12,2020
+"140","21MD0066","ONCTSH",22,59.4594594594595,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_022","Tatoosh Cut",44177,12,12,2020
+"141","21MD0066","ONCKIS",15,40.5405405405405,"Oncorhynchus kisutch","Coho_Salmon","EJ_022","Tatoosh Cut",44177,12,12,2020
+"142","21MD0067","ONCKIS",1276,100,"Oncorhynchus kisutch","Coho_Salmon","EJ_023","Tatoosh Cut",44177,12,12,2020
+"143","21MD0068","ONCKIS",103,91.1504424778761,"Oncorhynchus kisutch","Coho_Salmon","EJ_024","Tatoosh Cut",44177,12,12,2020
+"144","21MD0068","ONCKET",3,2.65486725663717,"Oncorhynchus keta","Chum_Salmon","EJ_024","Tatoosh Cut",44177,12,12,2020
+"145","21MD0068","ONCTSH",7,6.19469026548673,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_024","Tatoosh Cut",44177,12,12,2020
+"146","21MD0069","ONCKET",3,2.67857142857143,"Oncorhynchus keta","Chum_Salmon","EJ_025","Tatoosh Cut",44177,12,12,2020
+"147","21MD0069","ONCTSH",109,97.3214285714286,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_025","Tatoosh Cut",44177,12,12,2020
+"148","21MD0070","ONCMYK",32,80,"Oncorhynchus mykiss","Steelhead","EJ_026","Tatoosh Cut",44177,12,12,2020
+"149","21MD0070","ONCTSH",8,20,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_026","Tatoosh Cut",44177,12,12,2020
+"150","21MD0071","ONCKIS",102,8.40197693574959,"Oncorhynchus kisutch","Coho_Salmon","EJ_027","Tatoosh Cut",44177,12,12,2020
+"151","21MD0071","ONCKET",1009,83.1136738056013,"Oncorhynchus keta","Chum_Salmon","EJ_027","Tatoosh Cut",44177,12,12,2020
+"152","21MD0071","ONCTSH",103,8.48434925864909,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_027","Tatoosh Cut",44177,12,12,2020
+"153","21MD0073","ONCMYK",12,16.9014084507042,"Oncorhynchus mykiss","Steelhead","EJ_028","Tatoosh Cut",44177,12,12,2020
+"154","21MD0073","ONCTSH",32,45.0704225352113,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_028","Tatoosh Cut",44177,12,12,2020
+"155","21MD0073","ONCKET",6,8.45070422535211,"Oncorhynchus keta","Chum_Salmon","EJ_028","Tatoosh Cut",44177,12,12,2020
+"156","21MD0073","ONCKIS",21,29.5774647887324,"Oncorhynchus kisutch","Coho_Salmon","EJ_028","Tatoosh Cut",44177,12,12,2020
+"157","21MD0074","ONCKIS",36,59.0163934426229,"Oncorhynchus kisutch","Coho_Salmon","EJ_029","Tatoosh Cut",44177,12,12,2020
+"158","21MD0074","ONCTSH",25,40.9836065573771,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_029","Tatoosh Cut",44177,12,12,2020
+"159","21MD0075","ONCTSH",645,97.4320241691843,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_030","Tatoosh Cut",44177,12,12,2020
+"160","21MD0075","ONCKIS",7,1.05740181268882,"Oncorhynchus kisutch","Coho_Salmon","EJ_030","Tatoosh Cut",44177,12,12,2020
+"161","21MD0075","ONCKET",10,1.51057401812689,"Oncorhynchus keta","Chum_Salmon","EJ_030","Tatoosh Cut",44177,12,12,2020
+"162","21MD0076","ONCMYK",4,9.52380952380952,"Oncorhynchus mykiss","Steelhead","EJ_031","Tatoosh Cut",44215,19,1,2021
+"163","21MD0076","ONCTSH",34,80.9523809523809,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_031","Tatoosh Cut",44215,19,1,2021
+"164","21MD0076","ONCKET",4,9.52380952380952,"Oncorhynchus keta","Chum_Salmon","EJ_031","Tatoosh Cut",44215,19,1,2021
+"165","21MD0077","ONCTSH",44,77.1929824561403,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_032","Tatoosh Cut",44215,19,1,2021
+"166","21MD0077","ONCMYK",8,14.0350877192982,"Oncorhynchus mykiss","Steelhead","EJ_032","Tatoosh Cut",44215,19,1,2021
+"167","21MD0077","ONCKET",5,8.7719298245614,"Oncorhynchus keta","Chum_Salmon","EJ_032","Tatoosh Cut",44215,19,1,2021
+"168","21MD0078","ONCKIS",424,100,"Oncorhynchus kisutch","Coho_Salmon","EJ_033","Tatoosh Cut",44215,19,1,2021
+"169","21MD0079","ONCMYK",27,87.0967741935484,"Oncorhynchus mykiss","Steelhead","EJ_034","Tatoosh Cut",44215,19,1,2021
+"170","21MD0079","ONCKET",4,12.9032258064516,"Oncorhynchus keta","Chum_Salmon","EJ_034","Tatoosh Cut",44215,19,1,2021
+"171","21MD0080","ONCMYK",5,27.7777777777778,"Oncorhynchus mykiss","Steelhead","EJ_035","Tatoosh Cut",44215,19,1,2021
+"172","21MD0080","ONCKIS",6,33.3333333333333,"Oncorhynchus kisutch","Coho_Salmon","EJ_035","Tatoosh Cut",44215,19,1,2021
+"173","21MD0080","ONCTSH",7,38.8888888888889,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_035","Tatoosh Cut",44215,19,1,2021
+"174","21MD0081","ONCMYK",9,60,"Oncorhynchus mykiss","Steelhead","EJ_036","Tatoosh Cut",44215,19,1,2021
+"175","21MD0081","ONCKIS",3,20,"Oncorhynchus kisutch","Coho_Salmon","EJ_036","Tatoosh Cut",44215,19,1,2021
+"176","21MD0081","ONCKET",3,20,"Oncorhynchus keta","Chum_Salmon","EJ_036","Tatoosh Cut",44215,19,1,2021
+"177","21MD0082","ONCKET",2,9.09090909090909,"Oncorhynchus keta","Chum_Salmon","EJ_037","Tatoosh Cut",44215,19,1,2021
+"178","21MD0082","ONCTSH",20,90.9090909090909,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_037","Tatoosh Cut",44215,19,1,2021
+"179","21MD0083","ONCTSH",4057,100,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_038","Tatoosh Cut",44215,19,1,2021
+"180","21MD0084","ONCMYK",9,5.73248407643312,"Oncorhynchus mykiss","Steelhead","EJ_039","Tatoosh Cut",44215,19,1,2021
+"181","21MD0084","ONCTSH",125,79.6178343949045,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_039","Tatoosh Cut",44215,19,1,2021
+"182","21MD0084","ONCKIS",9,5.73248407643312,"Oncorhynchus kisutch","Coho_Salmon","EJ_039","Tatoosh Cut",44215,19,1,2021
+"183","21MD0084","ONCKET",14,8.9171974522293,"Oncorhynchus keta","Chum_Salmon","EJ_039","Tatoosh Cut",44215,19,1,2021
+"184","21MD0085","ONCKIS",58,38.9261744966443,"Oncorhynchus kisutch","Coho_Salmon","EJ_040","Tatoosh Cut",44215,19,1,2021
+"185","21MD0085","ONCKET",12,8.05369127516778,"Oncorhynchus keta","Chum_Salmon","EJ_040","Tatoosh Cut",44215,19,1,2021
+"186","21MD0085","ONCMYK",12,8.05369127516778,"Oncorhynchus mykiss","Steelhead","EJ_040","Tatoosh Cut",44215,19,1,2021
+"187","21MD0085","ONCTSH",67,44.9664429530201,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_040","Tatoosh Cut",44215,19,1,2021
+"188","21MD0086","ONCKET",2,28.5714285714286,"Oncorhynchus keta","Chum_Salmon","EJ_041","Tatoosh Cut",44215,19,1,2021
+"189","21MD0086","ONCMYK",5,71.4285714285714,"Oncorhynchus mykiss","Steelhead","EJ_041","Tatoosh Cut",44215,19,1,2021
+"190","21MD0087","ONCKET",6,25,"Oncorhynchus keta","Chum_Salmon","EJ_042","Tatoosh Cut",44215,19,1,2021
+"191","21MD0087","ONCMYK",18,75,"Oncorhynchus mykiss","Steelhead","EJ_042","Tatoosh Cut",44215,19,1,2021
+"192","21MD0088","ONCMYK",10,18.1818181818182,"Oncorhynchus mykiss","Steelhead","EJ_043","Tatoosh Cut",44215,19,1,2021
+"193","21MD0088","ONCKIS",10,18.1818181818182,"Oncorhynchus kisutch","Coho_Salmon","EJ_043","Tatoosh Cut",44215,19,1,2021
+"194","21MD0088","ONCTSH",35,63.6363636363636,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_043","Tatoosh Cut",44215,19,1,2021
+"195","21MD0089","ONCMYK",119870,74.6593089015671,"Oncorhynchus mykiss","Steelhead","EJ_044","Tatoosh Cut",44215,19,1,2021
+"196","21MD0089","ONCTSH",20583,12.8198261042876,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_044","Tatoosh Cut",44215,19,1,2021
+"197","21MD0089","ONCKIS",20103,12.5208649941453,"Oncorhynchus kisutch","Coho_Salmon","EJ_044","Tatoosh Cut",44215,19,1,2021
+"198","21MD0090","ONCTSH",41,75.9259259259259,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_045","Tatoosh Cut",44215,19,1,2021
+"199","21MD0090","ONCKET",3,5.55555555555556,"Oncorhynchus keta","Chum_Salmon","EJ_045","Tatoosh Cut",44215,19,1,2021
+"200","21MD0090","ONCKIS",10,18.5185185185185,"Oncorhynchus kisutch","Coho_Salmon","EJ_045","Tatoosh Cut",44215,19,1,2021
+"201","21MD0092","ONCKET",3,18.75,"Oncorhynchus keta","Chum_Salmon","EJ_047","Tatoosh Cut",44215,19,1,2021
+"202","21MD0092","ONCKIS",13,81.25,"Oncorhynchus kisutch","Coho_Salmon","EJ_047","Tatoosh Cut",44215,19,1,2021
+"203","21MD0093","ONCTSH",7671,100,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_048","Tatoosh Cut",44215,19,1,2021
+"204","21MD0094","ONCMYK",5,16.1290322580645,"Oncorhynchus mykiss","Steelhead","EJ_049","Tatoosh Cut",44215,19,1,2021
+"205","21MD0094","ONCTSH",26,83.8709677419355,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_049","Tatoosh Cut",44215,19,1,2021
+"206","21MD0095","ONCTSH",8,100,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_050","Tatoosh Cut",44215,19,1,2021
+"207","21MD0096","ONCTSH",14892,100,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_051","Tatoosh Cut",44215,19,1,2021
+"208","21MD0097","ONCKIS",86,31.7343173431734,"Oncorhynchus kisutch","Coho_Salmon","EJ_052","Tatoosh Cut",44215,19,1,2021
+"209","21MD0097","ONCTSH",143,52.7675276752767,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_052","Tatoosh Cut",44215,19,1,2021
+"210","21MD0097","ONCGOR",42,15.4981549815498,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_052","Tatoosh Cut",44215,19,1,2021
+"211","21MD0098","ONCGOR",701,72.6424870466321,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_053","Tatoosh Cut",44215,19,1,2021
+"212","21MD0098","ONCTSH",175,18.1347150259067,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_053","Tatoosh Cut",44215,19,1,2021
+"213","21MD0098","ONCKIS",89,9.22279792746114,"Oncorhynchus kisutch","Coho_Salmon","EJ_053","Tatoosh Cut",44215,19,1,2021
+"214","21MD0099","ONCTSH",53,61.6279069767442,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_054","Tatoosh Cut",44215,19,1,2021
+"215","21MD0099","ONCGOR",9,10.4651162790698,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_054","Tatoosh Cut",44215,19,1,2021
+"216","21MD0099","ONCKIS",24,27.906976744186,"Oncorhynchus kisutch","Coho_Salmon","EJ_054","Tatoosh Cut",44215,19,1,2021
+"217","21MD0101","ONCTSH",31,60.7843137254902,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_056","Tatoosh Cut",44216,20,1,2021
+"218","21MD0101","ONCKIS",13,25.4901960784314,"Oncorhynchus kisutch","Coho_Salmon","EJ_056","Tatoosh Cut",44216,20,1,2021
+"219","21MD0101","ONCGOR",7,13.7254901960784,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_056","Tatoosh Cut",44216,20,1,2021
+"220","21MD0102","ONCGOR",5,10.6382978723404,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_057","Tatoosh Cut",44216,20,1,2021
+"221","21MD0102","ONCKIS",13,27.6595744680851,"Oncorhynchus kisutch","Coho_Salmon","EJ_057","Tatoosh Cut",44216,20,1,2021
+"222","21MD0102","ONCTSH",29,61.7021276595745,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_057","Tatoosh Cut",44216,20,1,2021
+"223","21MD0103","ONCTSH",21463,100,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_058","Tatoosh Cut",44216,20,1,2021
+"224","21MD0104","ONCGOR",10,15.8730158730159,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_059","Tatoosh Cut",44216,20,1,2021
+"225","21MD0104","ONCTSH",33,52.3809523809524,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_059","Tatoosh Cut",44216,20,1,2021
+"226","21MD0104","ONCKIS",20,31.7460317460317,"Oncorhynchus kisutch","Coho_Salmon","EJ_059","Tatoosh Cut",44216,20,1,2021
+"227","21MD0105","ONCTSH",102,49.5145631067961,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_060","Tatoosh Cut",44216,20,1,2021
+"228","21MD0105","ONCGOR",32,15.5339805825243,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_060","Tatoosh Cut",44216,20,1,2021
+"229","21MD0105","ONCKIS",72,34.9514563106796,"Oncorhynchus kisutch","Coho_Salmon","EJ_060","Tatoosh Cut",44216,20,1,2021
+"230","21MD0106","ONCTSH",1683,74.8332592263228,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_061","Tatoosh Cut",44216,20,1,2021
+"231","21MD0106","ONCGOR",151,6.71409515340151,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_061","Tatoosh Cut",44216,20,1,2021
+"232","21MD0106","ONCKIS",415,18.4526456202757,"Oncorhynchus kisutch","Coho_Salmon","EJ_061","Tatoosh Cut",44216,20,1,2021
+"233","21MD0107","ONCTSH",364,30.0082440230833,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_062","Tatoosh Cut",44230,3,2,2021
+"234","21MD0107","ONCKIS",671,55.3173948887057,"Oncorhynchus kisutch","Coho_Salmon","EJ_062","Tatoosh Cut",44230,3,2,2021
+"235","21MD0107","ONCGOR",178,14.674361088211,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_062","Tatoosh Cut",44230,3,2,2021
+"236","21MD0108","ONCKIS",2054,50.7285749567794,"Oncorhynchus kisutch","Coho_Salmon","EJ_063","Tatoosh Cut",44230,3,2,2021
+"237","21MD0108","ONCTSH",1995,49.2714250432205,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_063","Tatoosh Cut",44230,3,2,2021
+"238","21MD0109","ONCMYK",399,1.92669853686803,"Oncorhynchus mykiss","Steelhead","EJ_064","Tatoosh Cut",44230,3,2,2021
+"239","21MD0109","ONCGOR",2173,10.4930223574291,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_064","Tatoosh Cut",44230,3,2,2021
+"240","21MD0109","ONCKIS",759,3.66507315659858,"Oncorhynchus kisutch","Coho_Salmon","EJ_064","Tatoosh Cut",44230,3,2,2021
+"241","21MD0109","ONCTSH",17378,83.9152059491042,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_064","Tatoosh Cut",44230,3,2,2021
+"242","21MD0110","ONCTSH",110,23.2067510548523,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_065","Tatoosh Cut",44230,3,2,2021
+"243","21MD0110","ONCGOR",28,5.90717299578059,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_065","Tatoosh Cut",44230,3,2,2021
+"244","21MD0110","ONCKIS",336,70.8860759493671,"Oncorhynchus kisutch","Coho_Salmon","EJ_065","Tatoosh Cut",44230,3,2,2021
+"245","21MD0111","ONCKIS",167,7.95996186844614,"Oncorhynchus kisutch","Coho_Salmon","EJ_066","Tatoosh Cut",44230,3,2,2021
+"246","21MD0111","ONCTSH",1890,90.0857959961868,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_066","Tatoosh Cut",44230,3,2,2021
+"247","21MD0111","ONCGOR",41,1.95424213536702,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_066","Tatoosh Cut",44230,3,2,2021
+"248","21MD0112","ONCKIS",7891,86.5620886353664,"Oncorhynchus kisutch","Coho_Salmon","EJ_067","Tatoosh Cut",44230,3,2,2021
+"249","21MD0112","ONCTSH",206,2.25976305397104,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_067","Tatoosh Cut",44230,3,2,2021
+"250","21MD0112","ONCGOR",1019,11.1781483106626,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_067","Tatoosh Cut",44230,3,2,2021
+"251","21MD0113","ONCGOR",17,10.6918238993711,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_068","Tatoosh Cut",44230,3,2,2021
+"252","21MD0113","ONCTSH",90,56.6037735849057,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_068","Tatoosh Cut",44230,3,2,2021
+"253","21MD0113","ONCKIS",52,32.7044025157233,"Oncorhynchus kisutch","Coho_Salmon","EJ_068","Tatoosh Cut",44230,3,2,2021
+"254","21MD0114","ONCKIS",3152,10.3653523627873,"Oncorhynchus kisutch","Coho_Salmon","EJ_069","Tatoosh Cut",44230,3,2,2021
+"255","21MD0114","ONCTSH",27257,89.6346476372127,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_069","Tatoosh Cut",44230,3,2,2021
+"256","21MD0115","ONCKIS",24,25.2631578947368,"Oncorhynchus kisutch","Coho_Salmon","EJ_070","Tatoosh Cut",44230,3,2,2021
+"257","21MD0115","ONCTSH",56,58.9473684210526,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_070","Tatoosh Cut",44230,3,2,2021
+"258","21MD0115","ONCGOR",15,15.7894736842105,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_070","Tatoosh Cut",44230,3,2,2021
+"259","21MD0116","ONCTSH",18472,59.3401651193421,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_071","Tatoosh Cut",44230,3,2,2021
+"260","21MD0116","ONCGOR",6408,20.5853063060169,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_071","Tatoosh Cut",44230,3,2,2021
+"261","21MD0116","ONCKIS",5742,18.44582222365,"Oncorhynchus kisutch","Coho_Salmon","EJ_071","Tatoosh Cut",44230,3,2,2021
+"262","21MD0116","ONCMYK",507,1.62870635099104,"Oncorhynchus mykiss","Steelhead","EJ_071","Tatoosh Cut",44230,3,2,2021
+"263","21MD0117","ONCKIS",803,92.4050632911392,"Oncorhynchus kisutch","Coho_Salmon","EJ_072","Tatoosh Cut",44230,3,2,2021
+"264","21MD0117","ONCGOR",16,1.84119677790564,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_072","Tatoosh Cut",44230,3,2,2021
+"265","21MD0117","ONCTSH",50,5.75373993095512,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_072","Tatoosh Cut",44230,3,2,2021
+"266","21MD0118","ONCKIS",134,85.8974358974359,"Oncorhynchus kisutch","Coho_Salmon","EJ_073","Tatoosh Cut",44230,3,2,2021
+"267","21MD0118","ONCTSH",22,14.1025641025641,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_073","Tatoosh Cut",44230,3,2,2021
+"268","21MD0119","ONCKIS",62,41.6107382550336,"Oncorhynchus kisutch","Coho_Salmon","EJ_074","Tatoosh Cut",44230,3,2,2021
+"269","21MD0119","ONCGOR",12,8.05369127516778,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_074","Tatoosh Cut",44230,3,2,2021
+"270","21MD0119","ONCTSH",75,50.3355704697987,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_074","Tatoosh Cut",44230,3,2,2021
+"271","21MD0120","ONCKIS",42,5.26315789473684,"Oncorhynchus kisutch","Coho_Salmon","EJ_076","Tatoosh Cut",44230,3,2,2021
+"272","21MD0120","ONCTSH",745,93.3583959899749,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_076","Tatoosh Cut",44230,3,2,2021
+"273","21MD0120","ONCGOR",11,1.37844611528822,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_076","Tatoosh Cut",44230,3,2,2021
+"274","21MD0121","ONCTSH",46,1.0680287903413,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_077","Tatoosh Cut",44230,3,2,2021
+"275","21MD0121","ONCKIS",4261,98.9319712096587,"Oncorhynchus kisutch","Coho_Salmon","EJ_077","Tatoosh Cut",44230,3,2,2021
+"276","21MD0122","ONCGOR",12,15.5844155844156,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_078","Tatoosh Cut",44255,28,2,2021
+"277","21MD0122","ONCTSH",34,44.1558441558442,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_078","Tatoosh Cut",44255,28,2,2021
+"278","21MD0122","ONCKIS",31,40.2597402597403,"Oncorhynchus kisutch","Coho_Salmon","EJ_078","Tatoosh Cut",44255,28,2,2021
+"279","21MD0123","ONCTSH",231,51.6778523489933,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_079","Tatoosh Cut",44255,28,2,2021
+"280","21MD0123","ONCGOR",59,13.1991051454139,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_079","Tatoosh Cut",44255,28,2,2021
+"281","21MD0123","ONCKIS",157,35.1230425055928,"Oncorhynchus kisutch","Coho_Salmon","EJ_079","Tatoosh Cut",44255,28,2,2021
+"282","21MD0125","ONCGOR",14,12.280701754386,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_080","Tatoosh Cut",44255,28,2,2021
+"283","21MD0125","ONCTSH",61,53.5087719298246,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_080","Tatoosh Cut",44255,28,2,2021
+"284","21MD0125","ONCKIS",39,34.2105263157895,"Oncorhynchus kisutch","Coho_Salmon","EJ_080","Tatoosh Cut",44255,28,2,2021
+"285","21MD0126","ONCTSH",25,54.3478260869565,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_081","Tatoosh Cut",44255,28,2,2021
+"286","21MD0126","ONCKIS",21,45.6521739130435,"Oncorhynchus kisutch","Coho_Salmon","EJ_081","Tatoosh Cut",44255,28,2,2021
+"287","21MD0127","ONCTSH",189,70,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_082","Tatoosh Cut",44255,28,2,2021
+"288","21MD0127","ONCGOR",31,11.4814814814815,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_082","Tatoosh Cut",44255,28,2,2021
+"289","21MD0127","ONCKIS",50,18.5185185185185,"Oncorhynchus kisutch","Coho_Salmon","EJ_082","Tatoosh Cut",44255,28,2,2021
+"290","21MD0128","ONCKIS",18884,100,"Oncorhynchus kisutch","Coho_Salmon","EJ_083","Tatoosh Cut",44255,28,2,2021
+"291","21MD0129","ONCGOR",11,15.7142857142857,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_084","Tatoosh Cut",44255,28,2,2021
+"292","21MD0129","ONCKIS",14,20,"Oncorhynchus kisutch","Coho_Salmon","EJ_084","Tatoosh Cut",44255,28,2,2021
+"293","21MD0129","ONCTSH",45,64.2857142857143,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_084","Tatoosh Cut",44255,28,2,2021
+"294","21MD0130","ONCGOR",26,11.304347826087,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_085","Tatoosh Cut",44255,28,2,2021
+"295","21MD0130","ONCTSH",132,57.3913043478261,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_085","Tatoosh Cut",44255,28,2,2021
+"296","21MD0130","ONCKIS",72,31.304347826087,"Oncorhynchus kisutch","Coho_Salmon","EJ_085","Tatoosh Cut",44255,28,2,2021
+"297","21MD0131","ONCTSH",1124,94.0585774058577,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_086","Tatoosh Cut",44255,28,2,2021
+"298","21MD0131","ONCGOR",16,1.33891213389121,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_086","Tatoosh Cut",44255,28,2,2021
+"299","21MD0131","ONCKIS",55,4.60251046025105,"Oncorhynchus kisutch","Coho_Salmon","EJ_086","Tatoosh Cut",44255,28,2,2021
+"300","21MD0132","ONCKIS",36,33.9622641509434,"Oncorhynchus kisutch","Coho_Salmon","EJ_087","Tatoosh Cut",44255,28,2,2021
+"301","21MD0132","ONCGOR",8,7.54716981132075,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_087","Tatoosh Cut",44255,28,2,2021
+"302","21MD0132","ONCTSH",62,58.4905660377358,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_087","Tatoosh Cut",44255,28,2,2021
+"303","21MD0133","ONCTSH",52,30.0578034682081,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_088","Tatoosh Cut",44255,28,2,2021
+"304","21MD0133","ONCKIS",51,29.4797687861272,"Oncorhynchus kisutch","Coho_Salmon","EJ_088","Tatoosh Cut",44255,28,2,2021
+"305","21MD0133","ONCGOR",70,40.4624277456647,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_088","Tatoosh Cut",44255,28,2,2021
+"306","21MD0134","ONCKIS",83,1.8395390070922,"Oncorhynchus kisutch","Coho_Salmon","EJ_089","Tatoosh Cut",44255,28,2,2021
+"307","21MD0134","ONCTSH",4429,98.1604609929078,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_089","Tatoosh Cut",44255,28,2,2021
+"308","21MD0135","ONCKIS",66,54.0983606557377,"Oncorhynchus kisutch","Coho_Salmon","EJ_090","Tatoosh Cut",44255,28,2,2021
+"309","21MD0135","ONCTSH",40,32.7868852459016,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_090","Tatoosh Cut",44255,28,2,2021
+"310","21MD0135","ONCGOR",16,13.1147540983607,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_090","Tatoosh Cut",44255,28,2,2021
+"311","21MD0136","ONCKIS",71,32.8703703703704,"Oncorhynchus kisutch","Coho_Salmon","EJ_091","Tatoosh Cut",44255,28,2,2021
+"312","21MD0136","ONCGOR",19,8.7962962962963,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_091","Tatoosh Cut",44255,28,2,2021
+"313","21MD0136","ONCTSH",126,58.3333333333333,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_091","Tatoosh Cut",44255,28,2,2021
+"314","21MD0137","ONCKIS",215,19.7066911090742,"Oncorhynchus kisutch","Coho_Salmon","EJ_092","Tatoosh Cut",44255,28,2,2021
+"315","21MD0137","ONCTSH",660,60.4949587534372,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_092","Tatoosh Cut",44255,28,2,2021
+"316","21MD0137","ONCGOR",202,18.5151237396884,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_092","Tatoosh Cut",44255,28,2,2021
+"317","21MD0137","ONCMYK",14,1.28322639780018,"Oncorhynchus mykiss","Steelhead","EJ_092","Tatoosh Cut",44255,28,2,2021
+"318","21MD0138","ONCKIS",37,32.7433628318584,"Oncorhynchus kisutch","Coho_Salmon","EJ_093","Tatoosh Cut",44255,28,2,2021
+"319","21MD0138","ONCGOR",10,8.84955752212389,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_093","Tatoosh Cut",44255,28,2,2021
+"320","21MD0138","ONCTSH",66,58.4070796460177,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_093","Tatoosh Cut",44255,28,2,2021
+"321","21MD0139","ONCTSH",440,3.76905944834675,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_094","Tatoosh Cut",44255,28,2,2021
+"322","21MD0139","ONCKIS",11234,96.2309405516532,"Oncorhynchus kisutch","Coho_Salmon","EJ_094","Tatoosh Cut",44255,28,2,2021
+"323","21MD0140","ONCGOR",9,10,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_095","Tatoosh Cut",44255,28,2,2021
+"324","21MD0140","ONCTSH",53,58.8888888888889,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_095","Tatoosh Cut",44255,28,2,2021
+"325","21MD0140","ONCKIS",28,31.1111111111111,"Oncorhynchus kisutch","Coho_Salmon","EJ_095","Tatoosh Cut",44255,28,2,2021
+"326","21MD0141","ONCKIS",33,30.5555555555556,"Oncorhynchus kisutch","Coho_Salmon","EJ_096","Tatoosh Cut",44255,28,2,2021
+"327","21MD0141","ONCTSH",60,55.5555555555556,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_096","Tatoosh Cut",44255,28,2,2021
+"328","21MD0141","ONCGOR",15,13.8888888888889,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_096","Tatoosh Cut",44255,28,2,2021
+"329","21MD0142","ONCGOR",18344,15.7333630663934,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_097","Tatoosh Cut",44265,10,3,2021
+"330","21MD0142","ONCKIS",98249,84.2666369336066,"Oncorhynchus kisutch","Coho_Salmon","EJ_097","Tatoosh Cut",44265,10,3,2021
+"331","21MD0143","ONCTSH",976,54.3732590529248,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_098","Tatoosh Cut",44265,10,3,2021
+"332","21MD0143","ONCKIS",335,18.6629526462396,"Oncorhynchus kisutch","Coho_Salmon","EJ_098","Tatoosh Cut",44265,10,3,2021
+"333","21MD0143","ONCMYK",484,26.9637883008357,"Oncorhynchus mykiss","Steelhead","EJ_098","Tatoosh Cut",44265,10,3,2021
+"334","21MD0144","ONCMYK",21,1.26811594202899,"Oncorhynchus mykiss","Steelhead","EJ_099","Tatoosh Cut",44265,10,3,2021
+"335","21MD0144","ONCKIS",407,24.5772946859903,"Oncorhynchus kisutch","Coho_Salmon","EJ_099","Tatoosh Cut",44265,10,3,2021
+"336","21MD0144","ONCTSH",1088,65.7004830917874,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_099","Tatoosh Cut",44265,10,3,2021
+"337","21MD0144","ONCGOR",140,8.45410628019324,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_099","Tatoosh Cut",44265,10,3,2021
+"338","21MD0145","ONCKIS",73,38.4210526315789,"Oncorhynchus kisutch","Coho_Salmon","EJ_100","Tatoosh Cut",44265,10,3,2021
+"339","21MD0145","ONCTSH",94,49.4736842105263,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_100","Tatoosh Cut",44265,10,3,2021
+"340","21MD0145","ONCGOR",23,12.1052631578947,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_100","Tatoosh Cut",44265,10,3,2021
+"341","21MD0146","ONCGOR",24,33.8028169014084,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_101","Tatoosh Cut",44265,10,3,2021
+"342","21MD0146","ONCTSH",29,40.8450704225352,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_101","Tatoosh Cut",44265,10,3,2021
+"343","21MD0146","ONCKIS",18,25.3521126760563,"Oncorhynchus kisutch","Coho_Salmon","EJ_101","Tatoosh Cut",44265,10,3,2021
+"344","21MD0147","ONCKIS",38,38.3838383838384,"Oncorhynchus kisutch","Coho_Salmon","EJ_102","Tatoosh Cut",44265,10,3,2021
+"345","21MD0147","ONCGOR",14,14.1414141414141,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_102","Tatoosh Cut",44265,10,3,2021
+"346","21MD0147","ONCTSH",47,47.4747474747475,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_102","Tatoosh Cut",44265,10,3,2021
+"347","21MD0149","ONCGOR",23,13.3720930232558,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_103","Tatoosh Cut",44265,10,3,2021
+"348","21MD0149","ONCKIS",72,41.8604651162791,"Oncorhynchus kisutch","Coho_Salmon","EJ_103","Tatoosh Cut",44265,10,3,2021
+"349","21MD0149","ONCTSH",77,44.7674418604651,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_103","Tatoosh Cut",44265,10,3,2021
+"350","21MD0150","ONCTSH",79,11.6005873715125,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_104","Tatoosh Cut",44265,10,3,2021
+"351","21MD0150","ONCGOR",17,2.49632892804699,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_104","Tatoosh Cut",44265,10,3,2021
+"352","21MD0150","ONCKIS",585,85.9030837004405,"Oncorhynchus kisutch","Coho_Salmon","EJ_104","Tatoosh Cut",44265,10,3,2021
+"353","21MD0151","ONCKIS",51,32.2784810126582,"Oncorhynchus kisutch","Coho_Salmon","EJ_105","Tatoosh Cut",44265,10,3,2021
+"354","21MD0151","ONCGOR",18,11.3924050632911,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_105","Tatoosh Cut",44265,10,3,2021
+"355","21MD0151","ONCTSH",89,56.3291139240506,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_105","Tatoosh Cut",44265,10,3,2021
+"356","21MD0152","ONCTSH",120,50.8474576271186,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_106","Tatoosh Cut",44265,10,3,2021
+"357","21MD0152","ONCGOR",31,13.135593220339,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_106","Tatoosh Cut",44265,10,3,2021
+"358","21MD0152","ONCKIS",85,36.0169491525424,"Oncorhynchus kisutch","Coho_Salmon","EJ_106","Tatoosh Cut",44265,10,3,2021
+"359","21MD0153","ONCGOR",28656,30.0497053333613,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_107","Tatoosh Cut",44265,10,3,2021
+"360","21MD0153","ONCKIS",66706,69.9502946666387,"Oncorhynchus kisutch","Coho_Salmon","EJ_107","Tatoosh Cut",44265,10,3,2021
+"361","21MD0154","ONCMYK",5,1.8796992481203,"Oncorhynchus mykiss","Steelhead","EJ_108","Tatoosh Cut",44265,10,3,2021
+"362","21MD0154","ONCTSH",130,48.8721804511278,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_108","Tatoosh Cut",44265,10,3,2021
+"363","21MD0154","ONCGOR",37,13.9097744360902,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_108","Tatoosh Cut",44265,10,3,2021
+"364","21MD0154","ONCKIS",94,35.3383458646617,"Oncorhynchus kisutch","Coho_Salmon","EJ_108","Tatoosh Cut",44265,10,3,2021
+"365","21MD0155","ONCKIS",26,39.3939393939394,"Oncorhynchus kisutch","Coho_Salmon","EJ_109","Tatoosh Cut",44265,10,3,2021
+"366","21MD0155","ONCTSH",31,46.969696969697,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_109","Tatoosh Cut",44265,10,3,2021
+"367","21MD0155","ONCGOR",9,13.6363636363636,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_109","Tatoosh Cut",44265,10,3,2021
+"368","21MD0156","ONCKIS",152,32.409381663113,"Oncorhynchus kisutch","Coho_Salmon","EJ_110","Tatoosh Cut",44265,10,3,2021
+"369","21MD0156","ONCGOR",55,11.727078891258,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_110","Tatoosh Cut",44265,10,3,2021
+"370","21MD0156","ONCTSH",262,55.863539445629,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_110","Tatoosh Cut",44265,10,3,2021
+"371","21MD0157","ONCGOR",8,2.74914089347079,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_111","Tatoosh Cut",44265,10,3,2021
+"372","21MD0157","ONCTSH",51,17.5257731958763,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_111","Tatoosh Cut",44265,10,3,2021
+"373","21MD0157","SALTRU",183,62.8865979381443,"Salmo trutta","Brown_Trout","EJ_111","Tatoosh Cut",44265,10,3,2021
+"374","21MD0157","ONCKIS",49,16.8384879725086,"Oncorhynchus kisutch","Coho_Salmon","EJ_111","Tatoosh Cut",44265,10,3,2021
+"375","21MD0158","ONCKIS",19,27.1428571428571,"Oncorhynchus kisutch","Coho_Salmon","EJ_112","Tatoosh Cut",44265,10,3,2021
+"376","21MD0158","ONCTSH",42,60,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_112","Tatoosh Cut",44265,10,3,2021
+"377","21MD0158","ONCGOR",9,12.8571428571429,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_112","Tatoosh Cut",44265,10,3,2021
+"378","21MD0159","ONCTSH",27,56.25,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_113","Tatoosh Cut",44265,10,3,2021
+"379","21MD0159","ONCGOR",4,8.33333333333333,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_113","Tatoosh Cut",44265,10,3,2021
+"380","21MD0159","ONCKIS",17,35.4166666666667,"Oncorhynchus kisutch","Coho_Salmon","EJ_113","Tatoosh Cut",44265,10,3,2021
+"381","21MD0160","ONCTSH",340,78.8863109048724,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_114","Tatoosh Cut",44265,10,3,2021
+"382","21MD0160","ONCKIS",66,15.3132250580046,"Oncorhynchus kisutch","Coho_Salmon","EJ_114","Tatoosh Cut",44265,10,3,2021
+"383","21MD0160","ONCGOR",25,5.80046403712297,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_114","Tatoosh Cut",44265,10,3,2021
+"384","21MD0161","ONCTSH",89,58.9403973509934,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_115","Tatoosh Cut",44265,10,3,2021
+"385","21MD0161","ONCKIS",46,30.4635761589404,"Oncorhynchus kisutch","Coho_Salmon","EJ_115","Tatoosh Cut",44265,10,3,2021
+"386","21MD0161","ONCGOR",16,10.5960264900662,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_115","Tatoosh Cut",44265,10,3,2021
+"387","21MD0162","ONCTSH",23,37.0967741935484,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_116","Tatoosh Cut",44265,10,3,2021
+"388","21MD0162","ONCGOR",15,24.1935483870968,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_116","Tatoosh Cut",44265,10,3,2021
+"389","21MD0162","ONCKIS",24,38.7096774193548,"Oncorhynchus kisutch","Coho_Salmon","EJ_116","Tatoosh Cut",44265,10,3,2021
+"390","21MD0163","ONCGOR",25,16.1290322580645,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_117","Tatoosh Cut",44265,10,3,2021
+"391","21MD0163","ONCKIS",55,35.4838709677419,"Oncorhynchus kisutch","Coho_Salmon","EJ_117","Tatoosh Cut",44265,10,3,2021
+"392","21MD0163","ONCTSH",75,48.3870967741936,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_117","Tatoosh Cut",44265,10,3,2021
+"393","21MD0164","ONCGOR",11,5.58375634517767,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_118","Tatoosh Cut",44265,10,3,2021
+"394","21MD0164","ONCKIS",55,27.9187817258883,"Oncorhynchus kisutch","Coho_Salmon","EJ_118","Tatoosh Cut",44265,10,3,2021
+"395","21MD0164","ONCTSH",131,66.497461928934,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_118","Tatoosh Cut",44265,10,3,2021
+"396","21MD0165","ONCTSH",179651,100,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_119","Tatoosh Cut",44265,10,3,2021
+"397","21MD0166","ONCGOR",9,5.52147239263804,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_120","Tatoosh Cut",44265,10,3,2021
+"398","21MD0166","ONCKIS",55,33.7423312883436,"Oncorhynchus kisutch","Coho_Salmon","EJ_120","Tatoosh Cut",44265,10,3,2021
+"399","21MD0166","ONCTSH",99,60.7361963190184,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_120","Tatoosh Cut",44265,10,3,2021
+"400","21MD0167","ONCGOR",19,14.3939393939394,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_121","Tatoosh Cut",44265,10,3,2021
+"401","21MD0167","ONCTSH",73,55.3030303030303,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_121","Tatoosh Cut",44265,10,3,2021
+"402","21MD0167","ONCKIS",40,30.3030303030303,"Oncorhynchus kisutch","Coho_Salmon","EJ_121","Tatoosh Cut",44265,10,3,2021
+"403","21MD0168","ONCGOR",16,10.1910828025478,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_122","Tatoosh Cut",44265,10,3,2021
+"404","21MD0168","ONCKIS",37,23.5668789808917,"Oncorhynchus kisutch","Coho_Salmon","EJ_122","Tatoosh Cut",44265,10,3,2021
+"405","21MD0168","ONCTSH",104,66.2420382165605,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_122","Tatoosh Cut",44265,10,3,2021
+"406","21MD0169","ONCKIS",25,1.67448091091762,"Oncorhynchus kisutch","Coho_Salmon","EJ_123","Tatoosh Cut",44265,10,3,2021
+"407","21MD0169","ONCTSH",57,3.81781647689216,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_123","Tatoosh Cut",44265,10,3,2021
+"408","21MD0169","ONCGOR",1411,94.5077026121902,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_123","Tatoosh Cut",44265,10,3,2021
+"409","21MD0170","ONCKIS",21,27.2727272727273,"Oncorhynchus kisutch","Coho_Salmon","EJ_124","Tatoosh Cut",44265,10,3,2021
+"410","21MD0170","ONCGOR",8,10.3896103896104,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_124","Tatoosh Cut",44265,10,3,2021
+"411","21MD0170","ONCTSH",48,62.3376623376623,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_124","Tatoosh Cut",44265,10,3,2021
+"412","21MD0171","ONCTSH",30832,100,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_125","Tatoosh Cut",44265,10,3,2021
+"413","21MD0173","ONCGOR",6,4.58015267175572,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_126","Tatoosh Cut",44265,10,3,2021
+"414","21MD0173","ONCTSH",74,56.4885496183206,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_126","Tatoosh Cut",44265,10,3,2021
+"415","21MD0173","ONCKIS",51,38.9312977099237,"Oncorhynchus kisutch","Coho_Salmon","EJ_126","Tatoosh Cut",44265,10,3,2021
+"416","21MD0174","ONCKIS",49,34.7517730496454,"Oncorhynchus kisutch","Coho_Salmon","EJ_127","Tatoosh Cut",44299,13,4,2021
+"417","21MD0174","ONCGOR",22,15.6028368794326,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_127","Tatoosh Cut",44299,13,4,2021
+"418","21MD0174","ONCTSH",70,49.645390070922,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_127","Tatoosh Cut",44299,13,4,2021
+"419","21MD0175","ONCKIS",25,39.0625,"Oncorhynchus kisutch","Coho_Salmon","EJ_128","Tatoosh Cut",44299,13,4,2021
+"420","21MD0175","ONCTSH",35,54.6875,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_128","Tatoosh Cut",44299,13,4,2021
+"421","21MD0175","ONCGOR",4,6.25,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_128","Tatoosh Cut",44299,13,4,2021
+"422","21MD0176","ONCTSH",155,60.3112840466926,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_129","Tatoosh Cut",44299,13,4,2021
+"423","21MD0176","ONCKIS",66,25.6809338521401,"Oncorhynchus kisutch","Coho_Salmon","EJ_129","Tatoosh Cut",44299,13,4,2021
+"424","21MD0176","ONCGOR",36,14.0077821011673,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_129","Tatoosh Cut",44299,13,4,2021
+"425","21MD0177","ONCGOR",8,6.50406504065041,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_130","Tatoosh Cut",44299,13,4,2021
+"426","21MD0177","ONCKIS",21,17.0731707317073,"Oncorhynchus kisutch","Coho_Salmon","EJ_130","Tatoosh Cut",44299,13,4,2021
+"427","21MD0177","ONCTSH",94,76.4227642276423,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_130","Tatoosh Cut",44299,13,4,2021
+"428","21MD0178","ONCKIS",80,33.3333333333333,"Oncorhynchus kisutch","Coho_Salmon","EJ_131","Tatoosh Cut",44299,13,4,2021
+"429","21MD0178","ONCTSH",121,50.4166666666667,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_131","Tatoosh Cut",44299,13,4,2021
+"430","21MD0178","ONCGOR",39,16.25,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_131","Tatoosh Cut",44299,13,4,2021
+"431","21MD0179","ONCTSH",76,57.1428571428571,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_132","Tatoosh Cut",44299,13,4,2021
+"432","21MD0179","ONCKIS",44,33.0827067669173,"Oncorhynchus kisutch","Coho_Salmon","EJ_132","Tatoosh Cut",44299,13,4,2021
+"433","21MD0179","ONCGOR",13,9.77443609022556,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_132","Tatoosh Cut",44299,13,4,2021
+"434","21MD0180","ONCGOR",5,5.55555555555556,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_133","Tatoosh Cut",44299,13,4,2021
+"435","21MD0180","ONCKIS",32,35.5555555555556,"Oncorhynchus kisutch","Coho_Salmon","EJ_133","Tatoosh Cut",44299,13,4,2021
+"436","21MD0180","ONCTSH",53,58.8888888888889,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_133","Tatoosh Cut",44299,13,4,2021
+"437","21MD0181","ONCTSH",52,53.6082474226804,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_134","Tatoosh Cut",44299,13,4,2021
+"438","21MD0181","ONCKIS",30,30.9278350515464,"Oncorhynchus kisutch","Coho_Salmon","EJ_134","Tatoosh Cut",44299,13,4,2021
+"439","21MD0181","ONCGOR",15,15.4639175257732,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_134","Tatoosh Cut",44299,13,4,2021
+"440","21MD0182","ONCGOR",27,12.5581395348837,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_135","Tatoosh Cut",44299,13,4,2021
+"441","21MD0182","ONCTSH",112,52.093023255814,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_135","Tatoosh Cut",44299,13,4,2021
+"442","21MD0182","ONCKIS",76,35.3488372093023,"Oncorhynchus kisutch","Coho_Salmon","EJ_135","Tatoosh Cut",44299,13,4,2021
+"443","21MD0183","ONCTSH",49,48.0392156862745,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_136","Tatoosh Cut",44299,13,4,2021
+"444","21MD0183","ONCKIS",29,28.4313725490196,"Oncorhynchus kisutch","Coho_Salmon","EJ_136","Tatoosh Cut",44299,13,4,2021
+"445","21MD0183","ONCMYK",13,12.7450980392157,"Oncorhynchus mykiss","Steelhead","EJ_136","Tatoosh Cut",44299,13,4,2021
+"446","21MD0183","ONCGOR",11,10.7843137254902,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_136","Tatoosh Cut",44299,13,4,2021
+"447","21MD0184","ONCGOR",20,15.5038759689922,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_137","Tatoosh Cut",44299,13,4,2021
+"448","21MD0184","ONCTSH",69,53.4883720930233,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_137","Tatoosh Cut",44299,13,4,2021
+"449","21MD0184","ONCKIS",40,31.0077519379845,"Oncorhynchus kisutch","Coho_Salmon","EJ_137","Tatoosh Cut",44299,13,4,2021
+"450","21MD0185","ONCTSH",52,33.9869281045752,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_138","Tatoosh Cut",44299,13,4,2021
+"451","21MD0185","ONCGOR",8,5.22875816993464,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_138","Tatoosh Cut",44299,13,4,2021
+"452","21MD0185","ONCKIS",93,60.7843137254902,"Oncorhynchus kisutch","Coho_Salmon","EJ_138","Tatoosh Cut",44299,13,4,2021
+"453","21MD0186","ONCKIS",73,30.0411522633745,"Oncorhynchus kisutch","Coho_Salmon","EJ_139","Tatoosh Cut",44299,13,4,2021
+"454","21MD0186","ONCGOR",39,16.0493827160494,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_139","Tatoosh Cut",44299,13,4,2021
+"455","21MD0186","ONCTSH",131,53.9094650205761,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_139","Tatoosh Cut",44299,13,4,2021
+"456","21MD0187","ONCKIS",131,28.5403050108932,"Oncorhynchus kisutch","Coho_Salmon","EJ_140","Tatoosh Cut",44299,13,4,2021
+"457","21MD0187","ONCTSH",292,63.6165577342048,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_140","Tatoosh Cut",44299,13,4,2021
+"458","21MD0187","ONCGOR",36,7.84313725490196,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_140","Tatoosh Cut",44299,13,4,2021
+"459","21MD0188","ONCTSH",102,52.0408163265306,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_141","Tatoosh Cut",44299,13,4,2021
+"460","21MD0188","ONCGOR",20,10.2040816326531,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_141","Tatoosh Cut",44299,13,4,2021
+"461","21MD0188","ONCKIS",74,37.7551020408163,"Oncorhynchus kisutch","Coho_Salmon","EJ_141","Tatoosh Cut",44299,13,4,2021
+"462","21MD0189","ONCKIS",99,38.0769230769231,"Oncorhynchus kisutch","Coho_Salmon","EJ_142","Tatoosh Cut",44299,13,4,2021
+"463","21MD0189","ONCGOR",37,14.2307692307692,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_142","Tatoosh Cut",44299,13,4,2021
+"464","21MD0189","ONCTSH",124,47.6923076923077,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_142","Tatoosh Cut",44299,13,4,2021
+"465","21MD0190","ONCMYK",6,100,"Oncorhynchus mykiss","Steelhead","EJ_143","Tatoosh Cut",44299,13,4,2021
+"466","21MD0191","ONCGOR",2,15.3846153846154,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_144","Tatoosh Cut",44299,13,4,2021
+"467","21MD0191","ONCMYK",11,84.6153846153846,"Oncorhynchus mykiss","Steelhead","EJ_144","Tatoosh Cut",44299,13,4,2021
+"468","21MD0193","ONCMYK",11,68.75,"Oncorhynchus mykiss","Steelhead","EJ_146","Tatoosh Cut",44299,13,4,2021
+"469","21MD0193","ONCGOR",5,31.25,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_146","Tatoosh Cut",44299,13,4,2021
+"470","21MD0194","ONCMYK",3,100,"Oncorhynchus mykiss","Steelhead","EJ_147","Tatoosh Cut",44299,13,4,2021
+"471","21MD0195","ONCMYK",9,69.2307692307692,"Oncorhynchus mykiss","Steelhead","EJ_148","Tatoosh Cut",44299,13,4,2021
+"472","21MD0195","ONCGOR",4,30.7692307692308,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_148","Tatoosh Cut",44299,13,4,2021
+"473","21MD0197","ONCMYK",9,100,"Oncorhynchus mykiss","Steelhead","PV_043","Tatoosh Pv Haulout",44265,10,3,2021
+"474","21MD0198","ONCMYK",46,100,"Oncorhynchus mykiss","Steelhead","PV_044","Tatoosh Pv Haulout",44265,10,3,2021
+"475","21MD0199","ONCMYK",16,100,"Oncorhynchus mykiss","Steelhead","PV_045","Tatoosh Pv Haulout",44265,10,3,2021
+"476","21MD0201","ONCMYK",16,100,"Oncorhynchus mykiss","Steelhead","PV_047","Tatoosh Pv Haulout",44265,10,3,2021
+"477","21MD0202","ONCMYK",37,92.5,"Oncorhynchus mykiss","Steelhead","PV_048","Waadah Island ",44271,16,3,2021
+"478","21MD0202","ONCTSH",3,7.5,"Oncorhynchus tshawytscha","Chinook_Salmon","PV_048","Waadah Island ",44271,16,3,2021
+"479","21MD0203","ONCMYK",15,100,"Oncorhynchus mykiss","Steelhead","PV_049","Waadah Island ",44271,16,3,2021
+"480","21MD0206","ONCMYK",22,100,"Oncorhynchus mykiss","Steelhead","PV_052","Waadah Island ",44271,16,3,2021
+"481","21MD0208","ONCMYK",88,97.7777777777778,"Oncorhynchus mykiss","Steelhead","PV_054","Waadah Island ",44271,16,3,2021
+"482","21MD0208","ONCGOR",2,2.22222222222222,"Oncorhynchus gorbuscha","Pink_Salmon","PV_054","Waadah Island ",44271,16,3,2021
+"483","21MD0209","ONCTSH",3,11.5384615384615,"Oncorhynchus tshawytscha","Chinook_Salmon","PV_055","Waadah Island ",44271,16,3,2021
+"484","21MD0209","ONCGOR",2,7.69230769230769,"Oncorhynchus gorbuscha","Pink_Salmon","PV_055","Waadah Island ",44271,16,3,2021
+"485","21MD0209","ONCMYK",21,80.7692307692308,"Oncorhynchus mykiss","Steelhead","PV_055","Waadah Island ",44271,16,3,2021
+"486","21MD0210","ONCMYK",9,5.45454545454545,"Oncorhynchus mykiss","Steelhead","PV_056","Waadah Island ",44285,30,3,2021
+"487","21MD0210","ONCGOR",156,94.5454545454545,"Oncorhynchus gorbuscha","Pink_Salmon","PV_056","Waadah Island ",44285,30,3,2021
+"488","21MD0213","ONCGOR",2,100,"Oncorhynchus gorbuscha","Pink_Salmon","PV_059","Waadah Island ",44285,30,3,2021
+"489","21MD0214","ONCMYK",17,100,"Oncorhynchus mykiss","Steelhead","MIX_001","Tatoosh Main Island",44177,12,12,2020
+"490","21MD0215","ONCMYK",21,91.304347826087,"Oncorhynchus mykiss","Steelhead","MIX_002","Tatoosh Main Island",44177,12,12,2020
+"491","21MD0215","ONCGOR",2,8.69565217391304,"Oncorhynchus gorbuscha","Pink_Salmon","MIX_002","Tatoosh Main Island",44177,12,12,2020
+"492","21MD0216","ONCMYK",5,100,"Oncorhynchus mykiss","Steelhead","MIX_003","Tatoosh Main Island",44177,12,12,2020
+"493","21MD0217","ONCTSH",4,12.9032258064516,"Oncorhynchus tshawytscha","Chinook_Salmon","MIX_004","Tatoosh Main Island",44177,12,12,2020
+"494","21MD0217","ONCMYK",27,87.0967741935484,"Oncorhynchus mykiss","Steelhead","MIX_004","Tatoosh Main Island",44177,12,12,2020
+"495","21MD0219","ONCMYK",12,100,"Oncorhynchus mykiss","Steelhead","MIX_006","Tatoosh Main Island",44177,12,12,2020
+"496","21MD0221","ONCMYK",8,100,"Oncorhynchus mykiss","Steelhead","EJ_149","Tatoosh Cut",44299,13,4,2021
+"497","21MD0222","ONCMYK",28,82.3529411764706,"Oncorhynchus mykiss","Steelhead","EJ_150","Tatoosh Cut",44299,13,4,2021
+"498","21MD0222","ONCGOR",6,17.6470588235294,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_150","Tatoosh Cut",44299,13,4,2021
+"499","21MD0223","ONCMYK",16,100,"Oncorhynchus mykiss","Steelhead","EJ_151","Tatoosh Cut",44299,13,4,2021
+"500","21MD0226","ONCMYK",11,100,"Oncorhynchus mykiss","Steelhead","EJ_154","Tatoosh Cut",44299,13,4,2021
+"501","21MD0229","ONCMYK",6,100,"Oncorhynchus mykiss","Steelhead","EJ_157","Sea Lion Rock",44327,11,5,2021
+"502","21MD0231","ONCMYK",3,100,"Oncorhynchus mykiss","Steelhead","EJ_159","Sea Lion Rock",44327,11,5,2021
+"503","21MD0232","ONCMYK",23,100,"Oncorhynchus mykiss","Steelhead","EJ_160","Sea Lion Rock",44327,11,5,2021
+"504","21MD0233","ONCMYK",12,100,"Oncorhynchus mykiss","Steelhead","EJ_161","Sea Lion Rock",44327,11,5,2021
+"505","21MD0235","ONCMYK",8,100,"Oncorhynchus mykiss","Steelhead","EJ_163","Sea Lion Rock",44327,11,5,2021
+"506","21MD0236","ONCMYK",13,100,"Oncorhynchus mykiss","Steelhead","EJ_164","Sea Lion Rock",44327,11,5,2021
+"507","21MD0237","ONCMYK",10,100,"Oncorhynchus mykiss","Steelhead","EJ_166","Sea Lion Rock",44327,11,5,2021
+"508","21MD0239","ONCGOR",3,25,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_168","Sea Lion Rock",44327,11,5,2021
+"509","21MD0239","ONCMYK",9,75,"Oncorhynchus mykiss","Steelhead","EJ_168","Sea Lion Rock",44327,11,5,2021
+"510","21MD0240","ONCGOR",8,38.0952380952381,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_169","Sea Lion Rock",44327,11,5,2021
+"511","21MD0240","ONCMYK",13,61.9047619047619,"Oncorhynchus mykiss","Steelhead","EJ_169","Sea Lion Rock",44327,11,5,2021
+"512","21MD0241","ONCGOR",2,15.3846153846154,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_170","Sea Lion Rock",44327,11,5,2021
+"513","21MD0241","ONCMYK",11,84.6153846153846,"Oncorhynchus mykiss","Steelhead","EJ_170","Sea Lion Rock",44327,11,5,2021
+"514","21MD0245","ONCMYK",16,88.8888888888889,"Oncorhynchus mykiss","Steelhead","EJ_173","Sea Lion Rock",44327,11,5,2021
+"515","21MD0245","ONCGOR",2,11.1111111111111,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_173","Sea Lion Rock",44327,11,5,2021
+"516","21MD0246","ONCMYK",75,100,"Oncorhynchus mykiss","Steelhead","EJ_174","Sea Lion Rock",44327,11,5,2021
+"517","21MD0248","ONCMYK",13,100,"Oncorhynchus mykiss","Steelhead","EJ_176","Sea Lion Rock",44327,11,5,2021
+"518","21MD0249","ONCMYK",25,100,"Oncorhynchus mykiss","Steelhead","EJ_177","Sea Lion Rock",44327,11,5,2021
+"519","21MD0250","ONCTSH",403,97.3429951690821,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_178","Sea Lion Rock",44327,11,5,2021
+"520","21MD0250","ONCMYK",11,2.65700483091787,"Oncorhynchus mykiss","Steelhead","EJ_178","Sea Lion Rock",44327,11,5,2021
+"521","21MD0253","ONCGOR",3,20,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_181","Sea Lion Rock",44327,11,5,2021
+"522","21MD0253","ONCMYK",12,80,"Oncorhynchus mykiss","Steelhead","EJ_181","Sea Lion Rock",44327,11,5,2021
+"523","21MD0254","ONCMYK",3,100,"Oncorhynchus mykiss","Steelhead","EJ_182","Sea Lion Rock",44327,11,5,2021
+"524","21MD0256","ONCMYK",17,89.4736842105263,"Oncorhynchus mykiss","Steelhead","EJ_184","Sea Lion Rock",44327,11,5,2021
+"525","21MD0256","ONCGOR",2,10.5263157894737,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_184","Sea Lion Rock",44327,11,5,2021
+"526","21MD0258","ONCMYK",22,4.77223427331887,"Oncorhynchus mykiss","Steelhead","EJ_186","Sea Lion Rock",44327,11,5,2021
+"527","21MD0258","ONCTSH",439,95.2277657266811,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_186","Sea Lion Rock",44327,11,5,2021
+"528","21MD0259","ONCMYK",10,100,"Oncorhynchus mykiss","Steelhead","EJ_187","Tatoosh Cut",44356,9,6,2021
+"529","21MD0260","ONCTSH",3,6.97674418604651,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_188","Tatoosh Cut",44356,9,6,2021
+"530","21MD0260","ONCMYK",40,93.0232558139535,"Oncorhynchus mykiss","Steelhead","EJ_188","Tatoosh Cut",44356,9,6,2021
+"531","21MD0262","ONCTSH",4,100,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_190","Tatoosh Cut",44356,9,6,2021
+"532","21MD0263","ONCMYK",5,100,"Oncorhynchus mykiss","Steelhead","EJ_191","Tatoosh Cut",44356,9,6,2021
+"533","21MD0264","ONCMYK",12,100,"Oncorhynchus mykiss","Steelhead","EJ_192","Tatoosh Cut",44356,9,6,2021
+"534","21MD0265","ONCMYK",6,100,"Oncorhynchus mykiss","Steelhead","EJ_193","Tatoosh Cut",44356,9,6,2021
+"535","21MD0272","ONCMYK",28,100,"Oncorhynchus mykiss","Steelhead","EJ_199","Tatoosh Cut",44364,17,6,2021
+"536","21MD0273","ONCMYK",26,100,"Oncorhynchus mykiss","Steelhead","EJ_200","Tatoosh Cut",44364,17,6,2021
+"537","21MD0274","ONCMYK",11,100,"Oncorhynchus mykiss","Steelhead","EJ_201","Tatoosh Cut",44364,17,6,2021
+"538","21MD0276","ONCMYK",5561,100,"Oncorhynchus mykiss","Steelhead","EJ_203","Tatoosh Cut",44364,17,6,2021
+"539","21MD0278","ONCGOR",2,9.52380952380952,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_205","Tatoosh Cut",44364,17,6,2021
+"540","21MD0278","ONCMYK",19,90.4761904761905,"Oncorhynchus mykiss","Steelhead","EJ_205","Tatoosh Cut",44364,17,6,2021
+"541","21MD0279","ONCMYK",12,100,"Oncorhynchus mykiss","Steelhead","EJ_206","Tatoosh Cut",44364,17,6,2021
+"542","21MD0280","ONCMYK",27,93.1034482758621,"Oncorhynchus mykiss","Steelhead","EJ_207","Tatoosh Cut",44364,17,6,2021
+"543","21MD0280","ONCGOR",2,6.89655172413793,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_207","Tatoosh Cut",44364,17,6,2021
+"544","21MD0281","ONCMYK",7,100,"Oncorhynchus mykiss","Steelhead","EJ_208","Tatoosh Cut",44364,17,6,2021
+"545","21MD0282","ONCMYK",16,100,"Oncorhynchus mykiss","Steelhead","EJ_209","Tatoosh Cut",44364,17,6,2021
+"546","21MD0283","ONCMYK",4,100,"Oncorhynchus mykiss","Steelhead","EJ_210","Tatoosh Cut",44364,17,6,2021
+"547","21MD0284","ONCMYK",12,80,"Oncorhynchus mykiss","Steelhead","EJ_211","Tatoosh Cut",44364,17,6,2021
+"548","21MD0284","ONCGOR",3,20,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_211","Tatoosh Cut",44364,17,6,2021
+"549","21MD0285","ONCKIS",194,23.6585365853659,"Oncorhynchus kisutch","Coho_Salmon","EJ_212","Tatoosh Cut",44364,17,6,2021
+"550","21MD0285","ONCGOR",626,76.3414634146341,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_212","Tatoosh Cut",44364,17,6,2021
+"551","21MD0286","ONCGOR",93,58.8607594936709,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_213","Tatoosh Cut",44364,17,6,2021
+"552","21MD0286","ONCKIS",52,32.9113924050633,"Oncorhynchus kisutch","Coho_Salmon","EJ_213","Tatoosh Cut",44364,17,6,2021
+"553","21MD0286","ONCNER",13,8.22784810126582,"Oncorhynchus nerka","Sockeye_Salmon","EJ_213","Tatoosh Cut",44364,17,6,2021
+"554","21MD0287","ONCNER",17,7.72727272727273,"Oncorhynchus nerka","Sockeye_Salmon","EJ_214","Tatoosh Cut",44364,17,6,2021
+"555","21MD0287","ONCKIS",14,6.36363636363636,"Oncorhynchus kisutch","Coho_Salmon","EJ_214","Tatoosh Cut",44364,17,6,2021
+"556","21MD0287","ONCGOR",189,85.9090909090909,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_214","Tatoosh Cut",44364,17,6,2021
+"557","21MD0288","ONCNER",13,25.4901960784314,"Oncorhynchus nerka","Sockeye_Salmon","EJ_215","Tatoosh Cut",44364,17,6,2021
+"558","21MD0288","ONCKIS",7,13.7254901960784,"Oncorhynchus kisutch","Coho_Salmon","EJ_215","Tatoosh Cut",44364,17,6,2021
+"559","21MD0288","ONCGOR",31,60.7843137254902,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_215","Tatoosh Cut",44364,17,6,2021
+"560","21MD0289","ONCGOR",126,82.3529411764706,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_216","Tatoosh Cut",44364,17,6,2021
+"561","21MD0289","ONCKIS",27,17.6470588235294,"Oncorhynchus kisutch","Coho_Salmon","EJ_216","Tatoosh Cut",44364,17,6,2021
+"562","21MD0290","ONCKIS",17,10.6918238993711,"Oncorhynchus kisutch","Coho_Salmon","EJ_217","Tatoosh Cut",44385,8,7,2021
+"563","21MD0290","ONCGOR",120,75.4716981132076,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_217","Tatoosh Cut",44385,8,7,2021
+"564","21MD0290","ONCNER",22,13.8364779874214,"Oncorhynchus nerka","Sockeye_Salmon","EJ_217","Tatoosh Cut",44385,8,7,2021
+"565","21MD0291","ONCGOR",44,75.8620689655172,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_218","Tatoosh Cut",44385,8,7,2021
+"566","21MD0291","ONCNER",8,13.7931034482759,"Oncorhynchus nerka","Sockeye_Salmon","EJ_218","Tatoosh Cut",44385,8,7,2021
+"567","21MD0291","ONCKIS",6,10.3448275862069,"Oncorhynchus kisutch","Coho_Salmon","EJ_218","Tatoosh Cut",44385,8,7,2021
+"568","21MD0293","ONCGOR",38,100,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_219","Tatoosh Cut",44385,8,7,2021
+"569","21MD0294","ONCKIS",7,2.42214532871972,"Oncorhynchus kisutch","Coho_Salmon","EJ_220","Tatoosh Cut",44385,8,7,2021
+"570","21MD0294","ONCGOR",282,97.5778546712803,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_220","Tatoosh Cut",44385,8,7,2021
+"571","21MD0295","ONCKIS",16,8.88888888888889,"Oncorhynchus kisutch","Coho_Salmon","EJ_221","Tatoosh Cut",44385,8,7,2021
+"572","21MD0295","ONCNER",12,6.66666666666667,"Oncorhynchus nerka","Sockeye_Salmon","EJ_221","Tatoosh Cut",44385,8,7,2021
+"573","21MD0295","ONCGOR",152,84.4444444444444,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_221","Tatoosh Cut",44385,8,7,2021
+"574","21MD0296","ONCKIS",188,19.5629552549428,"Oncorhynchus kisutch","Coho_Salmon","EJ_222","Tatoosh Cut",44385,8,7,2021
+"575","21MD0296","ONCNER",56,5.82726326742976,"Oncorhynchus nerka","Sockeye_Salmon","EJ_222","Tatoosh Cut",44385,8,7,2021
+"576","21MD0296","ONCGOR",717,74.6097814776275,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_222","Tatoosh Cut",44385,8,7,2021
+"577","21MD0297","ONCKIS",51,12.0283018867925,"Oncorhynchus kisutch","Coho_Salmon","EJ_223","Tatoosh Cut",44385,8,7,2021
+"578","21MD0297","ONCNER",86,20.2830188679245,"Oncorhynchus nerka","Sockeye_Salmon","EJ_223","Tatoosh Cut",44385,8,7,2021
+"579","21MD0297","ONCGOR",287,67.688679245283,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_223","Tatoosh Cut",44385,8,7,2021
+"580","21MD0298","ONCGOR",98,100,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_224","Tatoosh Cut",44385,8,7,2021
+"581","21MD0299","ONCGOR",151,86.2857142857143,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_225","Tatoosh Cut",44385,8,7,2021
+"582","21MD0299","ONCNER",11,6.28571428571429,"Oncorhynchus nerka","Sockeye_Salmon","EJ_225","Tatoosh Cut",44385,8,7,2021
+"583","21MD0299","ONCKIS",13,7.42857142857143,"Oncorhynchus kisutch","Coho_Salmon","EJ_225","Tatoosh Cut",44385,8,7,2021
+"584","21MD0300","ONCGOR",970,61.5482233502538,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_226","Tatoosh Cut",44385,8,7,2021
+"585","21MD0300","ONCNER",29,1.84010152284264,"Oncorhynchus nerka","Sockeye_Salmon","EJ_226","Tatoosh Cut",44385,8,7,2021
+"586","21MD0300","ONCKIS",577,36.6116751269036,"Oncorhynchus kisutch","Coho_Salmon","EJ_226","Tatoosh Cut",44385,8,7,2021
+"587","21MD0301","ONCGOR",518,97.3684210526316,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_227","Tatoosh Cut",44385,8,7,2021
+"588","21MD0301","ONCKIS",14,2.63157894736842,"Oncorhynchus kisutch","Coho_Salmon","EJ_227","Tatoosh Cut",44385,8,7,2021
+"589","21MD0302","ONCNER",19,14.7286821705426,"Oncorhynchus nerka","Sockeye_Salmon","EJ_228","Tatoosh Cut",44385,8,7,2021
+"590","21MD0302","ONCGOR",90,69.7674418604651,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_228","Tatoosh Cut",44385,8,7,2021
+"591","21MD0302","ONCKIS",20,15.5038759689922,"Oncorhynchus kisutch","Coho_Salmon","EJ_228","Tatoosh Cut",44385,8,7,2021
+"592","21MD0303","ONCKIS",4,6.55737704918033,"Oncorhynchus kisutch","Coho_Salmon","EJ_229","Tatoosh Cut",44385,8,7,2021
+"593","21MD0303","ONCGOR",57,93.4426229508197,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_229","Tatoosh Cut",44385,8,7,2021
+"594","21MD0304","ONCGOR",52,88.135593220339,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_230","Tatoosh Cut",44385,8,7,2021
+"595","21MD0304","ONCKIS",7,11.864406779661,"Oncorhynchus kisutch","Coho_Salmon","EJ_230","Tatoosh Cut",44385,8,7,2021
+"596","21MD0305","ONCNER",15,6.94444444444444,"Oncorhynchus nerka","Sockeye_Salmon","EJ_231","Tatoosh Cut",44385,8,7,2021
+"597","21MD0305","ONCKIS",29,13.4259259259259,"Oncorhynchus kisutch","Coho_Salmon","EJ_231","Tatoosh Cut",44385,8,7,2021
+"598","21MD0305","ONCTSH",12,5.55555555555556,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_231","Tatoosh Cut",44385,8,7,2021
+"599","21MD0305","ONCGOR",160,74.0740740740741,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_231","Tatoosh Cut",44385,8,7,2021
+"600","21MD0306","ONCKIS",15,21.4285714285714,"Oncorhynchus kisutch","Coho_Salmon","EJ_232","Tatoosh Cut",44385,8,7,2021
+"601","21MD0306","ONCGOR",55,78.5714285714286,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_232","Tatoosh Cut",44385,8,7,2021
+"602","21MD0307","ONCNER",18,1.65137614678899,"Oncorhynchus nerka","Sockeye_Salmon","MIX_007","Tatoosh Main Island",44177,12,12,2020
+"603","21MD0307","ONCGOR",130,11.9266055045872,"Oncorhynchus gorbuscha","Pink_Salmon","MIX_007","Tatoosh Main Island",44177,12,12,2020
+"604","21MD0307","ONCKIS",942,86.4220183486239,"Oncorhynchus kisutch","Coho_Salmon","MIX_007","Tatoosh Main Island",44177,12,12,2020
+"605","21MD0308","ONCGOR",58,48.3333333333333,"Oncorhynchus gorbuscha","Pink_Salmon","MIX_008","Tatoosh Main Island",44177,12,12,2020
+"606","21MD0308","ONCKIS",24,20,"Oncorhynchus kisutch","Coho_Salmon","MIX_008","Tatoosh Main Island",44177,12,12,2020
+"607","21MD0308","ONCNER",38,31.6666666666667,"Oncorhynchus nerka","Sockeye_Salmon","MIX_008","Tatoosh Main Island",44177,12,12,2020
+"608","21MD0309","ONCGOR",73,89.0243902439024,"Oncorhynchus gorbuscha","Pink_Salmon","MIX_009","Tatoosh Main Island",44177,12,12,2020
+"609","21MD0309","ONCKIS",9,10.9756097560976,"Oncorhynchus kisutch","Coho_Salmon","MIX_009","Tatoosh Main Island",44177,12,12,2020
+"610","21MD0310","ONCKIS",469,92.5049309664694,"Oncorhynchus kisutch","Coho_Salmon","MIX_010","Tatoosh Main Island",44177,12,12,2020
+"611","21MD0310","ONCGOR",38,7.49506903353057,"Oncorhynchus gorbuscha","Pink_Salmon","MIX_010","Tatoosh Main Island",44177,12,12,2020
+"612","21MD0311","ONCGOR",71,88.75,"Oncorhynchus gorbuscha","Pink_Salmon","MIX_011","Tatoosh Main Island",44177,12,12,2020
+"613","21MD0311","ONCKIS",9,11.25,"Oncorhynchus kisutch","Coho_Salmon","MIX_011","Tatoosh Main Island",44177,12,12,2020
+"614","21MD0312","ONCGOR",42,85.7142857142857,"Oncorhynchus gorbuscha","Pink_Salmon","MIX_012","Tatoosh Main Island",44177,12,12,2020
+"615","21MD0312","ONCKIS",7,14.2857142857143,"Oncorhynchus kisutch","Coho_Salmon","MIX_012","Tatoosh Main Island",44177,12,12,2020
+"616","21MD0313","ONCNER",15,15,"Oncorhynchus nerka","Sockeye_Salmon","MIX_013","Tatoosh Main Island",44177,12,12,2020
+"617","21MD0313","ONCGOR",70,70,"Oncorhynchus gorbuscha","Pink_Salmon","MIX_013","Tatoosh Main Island",44177,12,12,2020
+"618","21MD0313","ONCKIS",15,15,"Oncorhynchus kisutch","Coho_Salmon","MIX_013","Tatoosh Main Island",44177,12,12,2020
+"619","21MD0314","ONCGOR",9040,21.5921847755989,"Oncorhynchus gorbuscha","Pink_Salmon","MIX_014","Tatoosh Main Island",44177,12,12,2020
+"620","21MD0314","ONCKIS",32827,78.4078152244011,"Oncorhynchus kisutch","Coho_Salmon","MIX_014","Tatoosh Main Island",44177,12,12,2020
+"621","21MD0315","ONCGOR",38,86.3636363636364,"Oncorhynchus gorbuscha","Pink_Salmon","MIX_015","Tatoosh Main Island",44177,12,12,2020
+"622","21MD0315","ONCKIS",6,13.6363636363636,"Oncorhynchus kisutch","Coho_Salmon","MIX_015","Tatoosh Main Island",44177,12,12,2020
+"623","21MD0316","ONCKIS",10,2.44498777506112,"Oncorhynchus kisutch","Coho_Salmon","MIX_016","Tatoosh Main Island",44177,12,12,2020
+"624","21MD0316","ONCNER",7,1.71149144254279,"Oncorhynchus nerka","Sockeye_Salmon","MIX_016","Tatoosh Main Island",44177,12,12,2020
+"625","21MD0316","ONCGOR",392,95.8435207823961,"Oncorhynchus gorbuscha","Pink_Salmon","MIX_016","Tatoosh Main Island",44177,12,12,2020
+"626","21MD0317","ONCGOR",165,1.19912790697674,"Oncorhynchus gorbuscha","Pink_Salmon","MIX_017","Tatoosh Main Island",44177,12,12,2020
+"627","21MD0317","ONCKIS",13595,98.8008720930232,"Oncorhynchus kisutch","Coho_Salmon","MIX_017","Tatoosh Main Island",44177,12,12,2020
+"628","21MD0319","ONCKIS",28,17.8343949044586,"Oncorhynchus kisutch","Coho_Salmon","EJ_75_A","Tatoosh Cut",44230,3,2,2021
+"629","21MD0319","ONCNER",19,12.1019108280255,"Oncorhynchus nerka","Sockeye_Salmon","EJ_75_A","Tatoosh Cut",44230,3,2,2021
+"630","21MD0319","ONCGOR",110,70.0636942675159,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_75_A","Tatoosh Cut",44230,3,2,2021
+"631","21MD0320","ONCKIS",45,15.625,"Oncorhynchus kisutch","Coho_Salmon","EJ_75_B","Tatoosh Cut",44230,3,2,2021
+"632","21MD0320","ONCNER",41,14.2361111111111,"Oncorhynchus nerka","Sockeye_Salmon","EJ_75_B","Tatoosh Cut",44230,3,2,2021
+"633","21MD0320","ONCGOR",202,70.1388888888889,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_75_B","Tatoosh Cut",44230,3,2,2021
+"634","21MD0321","ONCKIS",25,20.6611570247934,"Oncorhynchus kisutch","Coho_Salmon","EJ_75_C","Tatoosh Cut",44230,3,2,2021
+"635","21MD0321","ONCGOR",96,79.3388429752066,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_75_C","Tatoosh Cut",44230,3,2,2021
+"636","21MD0322","ONCGOR",18134,100,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_165","Sea Lion Rock",44327,11,5,2021
+"637","21MD0323","ONCGOR",10805,100,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_233","Tatoosh Cut",44391,14,7,2021
+"638","21MD0324","ONCTSH",197,39.2430278884462,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_234","Tatoosh Cut",44391,14,7,2021
+"639","21MD0324","ONCNER",21,4.18326693227092,"Oncorhynchus nerka","Sockeye_Salmon","EJ_234","Tatoosh Cut",44391,14,7,2021
+"640","21MD0324","ONCGOR",271,53.9840637450199,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_234","Tatoosh Cut",44391,14,7,2021
+"641","21MD0324","ONCKIS",13,2.58964143426295,"Oncorhynchus kisutch","Coho_Salmon","EJ_234","Tatoosh Cut",44391,14,7,2021
+"642","21MD0325","ONCKIS",35,5.29500756429652,"Oncorhynchus kisutch","Coho_Salmon","EJ_235","Tatoosh Cut",44391,14,7,2021
+"643","21MD0325","ONCNER",42,6.35400907715582,"Oncorhynchus nerka","Sockeye_Salmon","EJ_235","Tatoosh Cut",44391,14,7,2021
+"644","21MD0325","ONCGOR",584,88.3509833585477,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_235","Tatoosh Cut",44391,14,7,2021
+"645","21MD0326","ONCGOR",533,72.4184782608696,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_236","Tatoosh Cut",44391,14,7,2021
+"646","21MD0326","ONCKIS",165,22.4184782608696,"Oncorhynchus kisutch","Coho_Salmon","EJ_236","Tatoosh Cut",44391,14,7,2021
+"647","21MD0326","ONCNER",38,5.16304347826087,"Oncorhynchus nerka","Sockeye_Salmon","EJ_236","Tatoosh Cut",44391,14,7,2021
+"648","21MD0327","ONCGOR",355,59.463986599665,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_237","Tatoosh Cut",44391,14,7,2021
+"649","21MD0327","ONCKIS",128,21.4405360134003,"Oncorhynchus kisutch","Coho_Salmon","EJ_237","Tatoosh Cut",44391,14,7,2021
+"650","21MD0327","ONCNER",114,19.0954773869347,"Oncorhynchus nerka","Sockeye_Salmon","EJ_237","Tatoosh Cut",44391,14,7,2021
+"651","21MD0328","ONCGOR",113,86.2595419847328,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_238","Tatoosh Cut",44391,14,7,2021
+"652","21MD0328","ONCKIS",18,13.7404580152672,"Oncorhynchus kisutch","Coho_Salmon","EJ_238","Tatoosh Cut",44391,14,7,2021
+"653","21MD0329","ONCGOR",2804,83.9772386942198,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_239","Tatoosh Cut",44391,14,7,2021
+"654","21MD0329","ONCKIS",333,9.97304582210243,"Oncorhynchus kisutch","Coho_Salmon","EJ_239","Tatoosh Cut",44391,14,7,2021
+"655","21MD0329","ONCNER",202,6.04971548367775,"Oncorhynchus nerka","Sockeye_Salmon","EJ_239","Tatoosh Cut",44391,14,7,2021
+"656","21MD0330","ONCGOR",70,100,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_240","Tatoosh Cut",44391,14,7,2021
+"657","21MD0331","ONCGOR",92,74.1935483870968,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_241","Tatoosh Cut",44391,14,7,2021
+"658","21MD0331","ONCKIS",15,12.0967741935484,"Oncorhynchus kisutch","Coho_Salmon","EJ_241","Tatoosh Cut",44391,14,7,2021
+"659","21MD0331","ONCNER",17,13.7096774193548,"Oncorhynchus nerka","Sockeye_Salmon","EJ_241","Tatoosh Cut",44391,14,7,2021
+"660","21MD0332","ONCKIS",18,13.2352941176471,"Oncorhynchus kisutch","Coho_Salmon","EJ_242","Tatoosh Cut",44391,14,7,2021
+"661","21MD0332","ONCGOR",97,71.3235294117647,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_242","Tatoosh Cut",44391,14,7,2021
+"662","21MD0332","ONCNER",21,15.4411764705882,"Oncorhynchus nerka","Sockeye_Salmon","EJ_242","Tatoosh Cut",44391,14,7,2021
+"663","21MD0333","ONCNER",11,1.87713310580205,"Oncorhynchus nerka","Sockeye_Salmon","EJ_243","Tatoosh Cut",44391,14,7,2021
+"664","21MD0333","ONCGOR",559,95.3924914675768,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_243","Tatoosh Cut",44391,14,7,2021
+"665","21MD0333","ONCKIS",16,2.73037542662116,"Oncorhynchus kisutch","Coho_Salmon","EJ_243","Tatoosh Cut",44391,14,7,2021
+"666","21MD0334","ONCGOR",2071,50.2914035939777,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_244","Tatoosh Cut",44391,14,7,2021
+"667","21MD0334","ONCNER",1487,36.1097620203983,"Oncorhynchus nerka","Sockeye_Salmon","EJ_244","Tatoosh Cut",44391,14,7,2021
+"668","21MD0334","ONCKIS",560,13.5988343856241,"Oncorhynchus kisutch","Coho_Salmon","EJ_244","Tatoosh Cut",44391,14,7,2021
+"669","21MD0335","ONCGOR",70,100,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_245","Tatoosh Cut",44391,14,7,2021
+"670","21MD0336","ONCGOR",45,100,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_246","Tatoosh Cut",44391,14,7,2021
+"671","21MD0337","ONCNER",37,12.2923588039867,"Oncorhynchus nerka","Sockeye_Salmon","EJ_247","Tatoosh Cut",44391,14,7,2021
+"672","21MD0337","ONCKIS",34,11.2956810631229,"Oncorhynchus kisutch","Coho_Salmon","EJ_247","Tatoosh Cut",44391,14,7,2021
+"673","21MD0337","ONCGOR",230,76.4119601328904,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_247","Tatoosh Cut",44391,14,7,2021
+"674","21MD0338","ONCGOR",134892,100,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_248","Sea Lion Rock",44424,16,8,2021
+"675","21MD0339","ONCGOR",140492,100,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_249","Sea Lion Rock",44424,16,8,2021
+"676","21MD0340","ONCNER",57,16.1473087818697,"Oncorhynchus nerka","Sockeye_Salmon","EJ_250","Sea Lion Rock",44424,16,8,2021
+"677","21MD0340","ONCKIS",49,13.8810198300283,"Oncorhynchus kisutch","Coho_Salmon","EJ_250","Sea Lion Rock",44424,16,8,2021
+"678","21MD0340","ONCGOR",247,69.971671388102,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_250","Sea Lion Rock",44424,16,8,2021
+"679","21MD0341","ONCGOR",59095,54.2489420102265,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_251","Sea Lion Rock",44424,16,8,2021
+"680","21MD0341","ONCNER",49838,45.7510579897735,"Oncorhynchus nerka","Sockeye_Salmon","EJ_251","Sea Lion Rock",44424,16,8,2021
+"681","21MD0342","ONCNER",18,15.6521739130435,"Oncorhynchus nerka","Sockeye_Salmon","EJ_252","Sea Lion Rock",44424,16,8,2021
+"682","21MD0342","ONCKIS",16,13.9130434782609,"Oncorhynchus kisutch","Coho_Salmon","EJ_252","Sea Lion Rock",44424,16,8,2021
+"683","21MD0342","ONCGOR",81,70.4347826086957,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_252","Sea Lion Rock",44424,16,8,2021
+"684","21MD0343","ONCGOR",163,50.4643962848297,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_253","Sea Lion Rock",44424,16,8,2021
+"685","21MD0343","ONCKIS",139,43.0340557275542,"Oncorhynchus kisutch","Coho_Salmon","EJ_253","Sea Lion Rock",44424,16,8,2021
+"686","21MD0343","ONCNER",21,6.5015479876161,"Oncorhynchus nerka","Sockeye_Salmon","EJ_253","Sea Lion Rock",44424,16,8,2021
+"687","21MD0345","ONCGOR",21945,100,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_254","Sea Lion Rock",44424,16,8,2021
+"688","21MD0346","ONCKIS",16,9.03954802259887,"Oncorhynchus kisutch","Coho_Salmon","EJ_255","Sea Lion Rock",44424,16,8,2021
+"689","21MD0346","ONCGOR",161,90.9604519774011,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_255","Sea Lion Rock",44424,16,8,2021
+"690","21MD0347","ONCGOR",25695,100,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_256","Sea Lion Rock",44424,16,8,2021
+"691","21MD0348","ONCGOR",76,64.957264957265,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_257","Sea Lion Rock",44424,16,8,2021
+"692","21MD0348","ONCKIS",16,13.6752136752137,"Oncorhynchus kisutch","Coho_Salmon","EJ_257","Sea Lion Rock",44424,16,8,2021
+"693","21MD0348","ONCNER",25,21.3675213675214,"Oncorhynchus nerka","Sockeye_Salmon","EJ_257","Sea Lion Rock",44424,16,8,2021
+"694","21MD0349","ONCGOR",72,69.2307692307692,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_258","Sea Lion Rock",44424,16,8,2021
+"695","21MD0349","ONCKIS",10,9.61538461538462,"Oncorhynchus kisutch","Coho_Salmon","EJ_258","Sea Lion Rock",44424,16,8,2021
+"696","21MD0349","ONCNER",22,21.1538461538462,"Oncorhynchus nerka","Sockeye_Salmon","EJ_258","Sea Lion Rock",44424,16,8,2021
+"697","21MD0350","ONCKIS",28,13.3333333333333,"Oncorhynchus kisutch","Coho_Salmon","EJ_259","Sea Lion Rock",44424,16,8,2021
+"698","21MD0350","ONCNER",21,10,"Oncorhynchus nerka","Sockeye_Salmon","EJ_259","Sea Lion Rock",44424,16,8,2021
+"699","21MD0350","ONCGOR",161,76.6666666666667,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_259","Sea Lion Rock",44424,16,8,2021
+"700","21MD0351","ONCGOR",9650,49.19202732324,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_260","Sea Lion Rock",44424,16,8,2021
+"701","21MD0351","ONCNER",9967,50.80797267676,"Oncorhynchus nerka","Sockeye_Salmon","EJ_260","Sea Lion Rock",44424,16,8,2021
+"702","21MD0352","ONCGOR",95,100,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_261","Sea Lion Rock",44424,16,8,2021
+"703","21MD0353","ONCKIS",24,8.57142857142857,"Oncorhynchus kisutch","Coho_Salmon","EJ_262","Sea Lion Rock",44424,16,8,2021
+"704","21MD0353","ONCGOR",218,77.8571428571429,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_262","Sea Lion Rock",44424,16,8,2021
+"705","21MD0353","ONCNER",38,13.5714285714286,"Oncorhynchus nerka","Sockeye_Salmon","EJ_262","Sea Lion Rock",44424,16,8,2021
+"706","21MD0354","ONCGOR",82,100,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_263","Sea Lion Rock",44424,16,8,2021
+"707","21MD0355","ONCGOR",103620,60.7496086627699,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_264","Sea Lion Rock",44424,16,8,2021
+"708","21MD0355","ONCKIS",66949,39.2503913372301,"Oncorhynchus kisutch","Coho_Salmon","EJ_264","Sea Lion Rock",44424,16,8,2021
+"709","21MD0356","ONCGOR",90617,100,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_265","Sea Lion Rock",44424,16,8,2021
+"710","21MD0357","ONCKIS",24,2.7681660899654,"Oncorhynchus kisutch","Coho_Salmon","EJ_266","Sea Lion Rock",44424,16,8,2021
+"711","21MD0357","ONCGOR",824,95.040369088812,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_266","Sea Lion Rock",44424,16,8,2021
+"712","21MD0357","ONCNER",19,2.19146482122261,"Oncorhynchus nerka","Sockeye_Salmon","EJ_266","Sea Lion Rock",44424,16,8,2021
+"713","21MD0358","ONCTSH",1487,68.7471104946833,"Oncorhynchus tshawytscha","Chinook_Salmon","EJ_267","Sea Lion Rock",44424,16,8,2021
+"714","21MD0358","ONCGOR",504,23.3009708737864,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_267","Sea Lion Rock",44424,16,8,2021
+"715","21MD0358","ONCKIS",30,1.3869625520111,"Oncorhynchus kisutch","Coho_Salmon","EJ_267","Sea Lion Rock",44424,16,8,2021
+"716","21MD0358","ONCNER",142,6.56495607951919,"Oncorhynchus nerka","Sockeye_Salmon","EJ_267","Sea Lion Rock",44424,16,8,2021
+"717","21MD0359","ONCGOR",643,96.8373493975904,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_268","Sea Lion Rock",44424,16,8,2021
+"718","21MD0359","ONCNER",21,3.16265060240964,"Oncorhynchus nerka","Sockeye_Salmon","EJ_268","Sea Lion Rock",44424,16,8,2021
+"719","21MD0360","ONCKIS",29,11.5079365079365,"Oncorhynchus kisutch","Coho_Salmon","EJ_269","Sea Lion Rock",44424,16,8,2021
+"720","21MD0360","ONCNER",17,6.74603174603175,"Oncorhynchus nerka","Sockeye_Salmon","EJ_269","Sea Lion Rock",44424,16,8,2021
+"721","21MD0360","ONCGOR",206,81.7460317460317,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_269","Sea Lion Rock",44424,16,8,2021
+"722","21MD0361","ONCKIS",18,10.6508875739645,"Oncorhynchus kisutch","Coho_Salmon","EJ_270","Sea Lion Rock",44424,16,8,2021
+"723","21MD0361","ONCNER",16,9.46745562130178,"Oncorhynchus nerka","Sockeye_Salmon","EJ_270","Sea Lion Rock",44424,16,8,2021
+"724","21MD0361","ONCGOR",135,79.8816568047337,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_270","Sea Lion Rock",44424,16,8,2021
+"725","21MD0362","ONCNER",28,17.3913043478261,"Oncorhynchus nerka","Sockeye_Salmon","EJ_271","Sea Lion Rock",44424,16,8,2021
+"726","21MD0362","ONCGOR",117,72.6708074534162,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_271","Sea Lion Rock",44424,16,8,2021
+"727","21MD0362","ONCKIS",16,9.93788819875776,"Oncorhynchus kisutch","Coho_Salmon","EJ_271","Sea Lion Rock",44424,16,8,2021
+"728","21MD0363","ONCNER",40,23.121387283237,"Oncorhynchus nerka","Sockeye_Salmon","EJ_272","Sea Lion Rock",44424,16,8,2021
+"729","21MD0363","ONCGOR",119,68.7861271676301,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_272","Sea Lion Rock",44424,16,8,2021
+"730","21MD0363","ONCKIS",14,8.09248554913295,"Oncorhynchus kisutch","Coho_Salmon","EJ_272","Sea Lion Rock",44424,16,8,2021
+"731","21MD0364","ONCGOR",91,85.8490566037736,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_273","Sea Lion Rock",44424,16,8,2021
+"732","21MD0364","ONCKIS",15,14.1509433962264,"Oncorhynchus kisutch","Coho_Salmon","EJ_273","Sea Lion Rock",44424,16,8,2021
+"733","21MD0365","ONCKIS",9,8.33333333333333,"Oncorhynchus kisutch","Coho_Salmon","EJ_274","Sea Lion Rock",44424,16,8,2021
+"734","21MD0365","ONCGOR",73,67.5925925925926,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_274","Sea Lion Rock",44424,16,8,2021
+"735","21MD0365","ONCNER",26,24.0740740740741,"Oncorhynchus nerka","Sockeye_Salmon","EJ_274","Sea Lion Rock",44424,16,8,2021
+"736","21MD0366","ONCGOR",118,66.2921348314607,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_275","Sea Lion Rock",44424,16,8,2021
+"737","21MD0366","ONCKIS",28,15.7303370786517,"Oncorhynchus kisutch","Coho_Salmon","EJ_275","Sea Lion Rock",44424,16,8,2021
+"738","21MD0366","ONCNER",32,17.9775280898876,"Oncorhynchus nerka","Sockeye_Salmon","EJ_275","Sea Lion Rock",44424,16,8,2021
+"739","21MD0367","ONCGOR",96,84.9557522123894,"Oncorhynchus gorbuscha","Pink_Salmon","EJ_276","Sea Lion Rock",44424,16,8,2021
+"740","21MD0367","ONCKIS",6,5.30973451327434,"Oncorhynchus kisutch","Coho_Salmon","EJ_276","Sea Lion Rock",44424,16,8,2021
+"741","21MD0367","ONCNER",11,9.73451327433628,"Oncorhynchus nerka","Sockeye_Salmon","EJ_276","Sea Lion Rock",44424,16,8,2021
