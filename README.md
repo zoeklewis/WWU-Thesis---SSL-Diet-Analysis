@@ -1,1 +1,2 @@
-# All data modification and analysis is completed in here
+Here is code for converting reads of DNA to relative read abundance, and other coding helpful for processing DNA metabarcoding data.
+ 
